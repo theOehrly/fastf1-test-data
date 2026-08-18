@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjI4OjE1LjAxMXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6Mjg6MTkuMDgyeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjI4OjI2LjExOHsiU3RhdHVzIjoiNSIsIk1lc3NhZ2UiOiJSZWQifQ0KMDA6MzE6MTMuOTEweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjQ3OjQzLjE1OXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NDc6NTEuODQ4eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjU5OjAyLjg5MnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NTk6MDMuOTIxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjExOjE0LjY2NXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MTE6MjQuOTMweyJTdGF0dXMiOiI1IiwiTWVzc2FnZSI6IlJlZCJ9DQowMToyMDo1OS40NzJ7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0K",
+  "created_at": "2026-08-20T11:22:11.388342+00:00",
+  "elapsed": 0.155772,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "573",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:12 GMT",
+    "ETag": "\"46a6de384b18e30e3ab3701f60e5b0e1\"",
+    "Last-Modified": "Sun, 16 Jun 2024 17:06:56 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 455035b7b3ab5f564b775e2968249d3e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Z-6XHTNbgSqfNyfv7YvGWuZzHLHYmDLQatJ8G7a9xomJgnOTr5xgWA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/TrackStatus.jsonStream"
+}

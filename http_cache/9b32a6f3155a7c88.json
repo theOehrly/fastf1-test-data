@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDYuOTQyeyJDdXJyZW50TGFwIjoxLCJUb3RhbExhcHMiOjUwfQ0KMDE6MDM6MTMuMDEyeyJDdXJyZW50TGFwIjoyfQ0KMDE6MDQ6NDcuMDg1eyJDdXJyZW50TGFwIjozfQ0KMDE6MDY6MjAuODI3eyJDdXJyZW50TGFwIjo0fQ0KMDE6MDc6NTQuNjIxeyJDdXJyZW50TGFwIjo1fQ0KMDE6MDk6MjcuOTg2eyJDdXJyZW50TGFwIjo2fQ0KMDE6MTE6MDEuMjQzeyJDdXJyZW50TGFwIjo3fQ0KMDE6MTI6MzQuOTcxeyJDdXJyZW50TGFwIjo4fQ0KMDE6MTQ6MDguMjA1eyJDdXJyZW50TGFwIjo5fQ0KMDE6MTU6NDEuMzg4eyJDdXJyZW50TGFwIjoxMH0NCjAxOjE3OjQzLjM0OHsiQ3VycmVudExhcCI6MTF9DQowMToyMDo0MS40NTd7IkN1cnJlbnRMYXAiOjEyfQ0KMDE6MjM6MjguNzYxeyJDdXJyZW50TGFwIjoxM30NCjAxOjI2OjIzLjcyMXsiQ3VycmVudExhcCI6MTR9DQowMTo0NjoxMy44ODh7IkN1cnJlbnRMYXAiOjE1fQ0KMDE6NDk6NTIuMjExeyJDdXJyZW50TGFwIjoxNn0NCjAyOjExOjI4LjA5OXsiQ3VycmVudExhcCI6MTd9DQowMjoxNDoxMS4wMjV7IkN1cnJlbnRMYXAiOjE4fQ0KMDI6MTU6NDQuNDUyeyJDdXJyZW50TGFwIjoxOX0NCjAyOjE3OjE3LjE2MXsiQ3VycmVudExhcCI6MjB9DQowMjoxODo0OS45MDh7IkN1cnJlbnRMYXAiOjIxfQ0KMDI6MjA6MjIuMzkyeyJDdXJyZW50TGFwIjoyMn0NCjAyOjIxOjU0LjYyMXsiQ3VycmVudExhcCI6MjN9DQowMjoyMzozMy4wOTF7IkN1cnJlbnRMYXAiOjI0fQ0KMDI6MjU6MzEuOTUweyJDdXJyZW50TGFwIjoyNX0NCjAyOjI3OjAzLjc1NHsiQ3VycmVudExhcCI6MjZ9DQowMjoyODozNS44ODJ7IkN1cnJlbnRMYXAiOjI3fQ0KMDI6MzA6MDcuODIxeyJDdXJyZW50TGFwIjoyOH0NCjAyOjMxOjUyLjQ4MnsiQ3VycmVudExhcCI6Mjl9DQowMjozMzozNC4yMTd7IkN1cnJlbnRMYXAiOjMwfQ0KMDI6MzU6NDEuODgweyJDdXJyZW50TGFwIjozMX0NCjAyOjM3OjUwLjE3M3siQ3VycmVudExhcCI6MzJ9DQowMjozOTo1NS4xMDd7IkN1cnJlbnRMYXAiOjMzfQ0KMDI6NDE6MzMuMzA2eyJDdXJyZW50TGFwIjozNH0NCjAyOjQzOjA0LjgyM3siQ3VycmVudExhcCI6MzV9DQowMjo0NDozNi4zMDB7IkN1cnJlbnRMYXAiOjM2fQ0KMDI6NDY6MjAuMDAweyJDdXJyZW50TGFwIjozN30NCjAyOjQ3OjU1LjcxOHsiQ3VycmVudExhcCI6Mzh9DQowMjo0OToyNy4zNTJ7IkN1cnJlbnRMYXAiOjM5fQ0KMDI6NTA6NTguOTU0eyJDdXJyZW50TGFwIjo0MH0NCjAyOjUyOjMwLjUxM3siQ3VycmVudExhcCI6NDF9DQowMjo1NDowMi4xMDJ7IkN1cnJlbnRMYXAiOjQyfQ0KMDI6NTU6MzUuMTgweyJDdXJyZW50TGFwIjo0M30NCjAyOjU3OjA3LjQ2MHsiQ3VycmVudExhcCI6NDR9DQowMjo1ODozOC43OTl7IkN1cnJlbnRMYXAiOjQ1fQ0KMDM6MDA6MDkuNjMxeyJDdXJyZW50TGFwIjo0Nn0NCjAzOjAxOjQxLjI3MnsiQ3VycmVudExhcCI6NDd9DQowMzowMzoxMi4wMDF7IkN1cnJlbnRMYXAiOjQ4fQ0KMDM6MDQ6NDMuNTU4eyJDdXJyZW50TGFwIjo0OX0NCjAzOjA2OjE3LjMwNHsiQ3VycmVudExhcCI6NTB9DQo=",
+  "created_at": "2026-08-20T11:24:16.326588+00:00",
+  "elapsed": 0.070435,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2023",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1559",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:50:34 GMT",
+    "ETag": "\"84e5b8ebeeb05c8beec18ba9d150100c\"",
+    "Last-Modified": "Tue, 18 Jun 2024 06:48:19 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0a93e5f50864322b5cd49038d9c83154.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "GfWHcjEzkoNUemyq2FMYbtXv6E76wweiKToXi5cyYQVw7U3Sx85RXQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/LapCount.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/LapCount.jsonStream"
+}

@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTEwNiwiTmFtZSI6IlNhdWRpIEFyYWJpYW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiSmVkZGFoIiwiQ291bnRyeSI6eyJLZXkiOjE1MywiQ29kZSI6IktTQSIsIk5hbWUiOiJTYXVkaSBBcmFiaWEifSwiQ2lyY3VpdCI6eyJLZXkiOjE0OSwiU2hvcnROYW1lIjoiSmVkZGFoIn19LCJBcmNoaXZlU3RhdHVzIjp7IlN0YXR1cyI6IkdlbmVyYXRpbmcifSwiS2V5Ijo2ODIxLCJUeXBlIjoiUmFjZSIsIk5hbWUiOiJSYWNlIiwiU3RhcnREYXRlIjoiMjAyMS0xMi0wNVQyMDozMDowMCIsIkVuZERhdGUiOiIyMDIxLTEyLTA1VDIyOjMwOjAwIiwiR210T2Zmc2V0IjoiMDM6MDA6MDAiLCJQYXRoIjoiMjAyMS8yMDIxLTEyLTA1X1NhdWRpX0FyYWJpYW5fR3JhbmRfUHJpeC8yMDIxLTEyLTA1X1JhY2UvIn0NCg==",
+  "created_at": "2026-08-20T11:24:15.264781+00:00",
+  "elapsed": 0.065517,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2024",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "430",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:15 GMT",
+    "ETag": "\"8b5781bda8611d0588078201ad6f70e7\"",
+    "Last-Modified": "Tue, 18 Jun 2024 06:48:21 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0b2ae559ee268e62d32798bba4c8c014.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "6LKYr8IoZmThU3FUpqJbv1eCAZQPTWxUj5n0Uu1tKg-0vnEBA0SiAQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/SessionInfo.jsonStream"
+}

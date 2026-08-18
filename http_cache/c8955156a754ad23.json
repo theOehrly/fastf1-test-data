@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTI2OCwiTmFtZSI6Ikl0YWxpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBQSVJFTExJIEdSQU4gUFJFTUlPIETigJlJVEFMSUEgMjAyNSIsIkxvY2F0aW9uIjoiTW9uemEiLCJOdW1iZXIiOjE2LCJDb3VudHJ5Ijp7IktleSI6MTMsIkNvZGUiOiJJVEEiLCJOYW1lIjoiSXRhbHkifSwiQ2lyY3VpdCI6eyJLZXkiOjM5LCJTaG9ydE5hbWUiOiJNb256YSJ9fSwiU2Vzc2lvblN0YXR1cyI6IkluYWN0aXZlIiwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6OTkwNSwiVHlwZSI6IlByYWN0aWNlIiwiTnVtYmVyIjoxLCJOYW1lIjoiUHJhY3RpY2UgMSIsIlN0YXJ0RGF0ZSI6IjIwMjUtMDktMDVUMTM6MzA6MDAiLCJFbmREYXRlIjoiMjAyNS0wOS0wNVQxNDozMDowMCIsIkdtdE9mZnNldCI6IjAyOjAwOjAwIiwiUGF0aCI6IjIwMjUvMjAyNS0wOS0wN19JdGFsaWFuX0dyYW5kX1ByaXgvMjAyNS0wOS0wNV9QcmFjdGljZV8xLyJ9DQowMDoxMzo0NC4xNzV7Ik1lZXRpbmciOnsiS2V5IjoxMjY4LCJOYW1lIjoiSXRhbGlhbiBHcmFuZCBQcml4IiwiT2ZmaWNpYWxOYW1lIjoiRk9STVVMQSAxIFBJUkVMTEkgR1JBTiBQUkVNSU8gROKAmUlUQUxJQSAyMDI1IiwiTG9jYXRpb24iOiJNb256YSIsIk51bWJlciI6MTYsIkNvdW50cnkiOnsiS2V5IjoxMywiQ29kZSI6IklUQSIsIk5hbWUiOiJJdGFseSJ9LCJDaXJjdWl0Ijp7IktleSI6MzksIlNob3J0TmFtZSI6Ik1vbnphIn19LCJTZXNzaW9uU3RhdHVzIjoiU3RhcnRlZCIsIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjk5MDUsIlR5cGUiOiJQcmFjdGljZSIsIk51bWJlciI6MSwiTmFtZSI6IlByYWN0aWNlIDEiLCJTdGFydERhdGUiOiIyMDI1LTA5LTA1VDEzOjMwOjAwIiwiRW5kRGF0ZSI6IjIwMjUtMDktMDVUMTQ6MzA6MDAiLCJHbXRPZmZzZXQiOiIwMjowMDowMCIsIlBhdGgiOiIyMDI1LzIwMjUtMDktMDdfSXRhbGlhbl9HcmFuZF9Qcml4LzIwMjUtMDktMDVfUHJhY3RpY2VfMS8ifQ0KMDE6NTY6MjguNjYxeyJNZWV0aW5nIjp7IktleSI6MTI2OCwiTmFtZSI6Ikl0YWxpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBQSVJFTExJIEdSQU4gUFJFTUlPIETigJlJVEFMSUEgMjAyNSIsIkxvY2F0aW9uIjoiTW9uemEiLCJOdW1iZXIiOjE2LCJDb3VudHJ5Ijp7IktleSI6MTMsIkNvZGUiOiJJVEEiLCJOYW1lIjoiSXRhbHkifSwiQ2lyY3VpdCI6eyJLZXkiOjM5LCJTaG9ydE5hbWUiOiJNb256YSJ9fSwiU2Vzc2lvblN0YXR1cyI6IkZpbmFsaXNlZCIsIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjk5MDUsIlR5cGUiOiJQcmFjdGljZSIsIk51bWJlciI6MSwiTmFtZSI6IlByYWN0aWNlIDEiLCJTdGFydERhdGUiOiIyMDI1LTA5LTA1VDEzOjMwOjAwIiwiRW5kRGF0ZSI6IjIwMjUtMDktMDVUMTQ6MzA6MDAiLCJHbXRPZmZzZXQiOiIwMjowMDowMCIsIlBhdGgiOiIyMDI1LzIwMjUtMDktMDdfSXRhbGlhbl9HcmFuZF9Qcml4LzIwMjUtMDktMDVfUHJhY3RpY2VfMS8ifQ0K",
+  "created_at": "2026-08-20T11:22:23.755350+00:00",
+  "elapsed": 0.202445,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1602",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:24 GMT",
+    "ETag": "\"73244ac582dfb4b7d8bd73758a8386de\"",
+    "Last-Modified": "Fri, 05 Sep 2025 13:32:49 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 c318f6c5edde4e7ab2b9ba2243b14b28.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "3yxKWgUM14f57ZSUaDqncK3mzin-9lH8SdKQslkfEitpiHvk5V5pOA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-09-07_Italian_Grand_Prix/2025-09-05_Practice_1/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-09-07_Italian_Grand_Prix/2025-09-05_Practice_1/SessionInfo.jsonStream"
+}

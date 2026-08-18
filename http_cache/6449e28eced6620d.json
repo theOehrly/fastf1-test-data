@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDYuNzYyeyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxNDo1OS4wODJ7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6NDQ6NTkuMDc2eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMTo0NzoyMC41NDJ7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjowMDowMS43NjZ7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:23:34.113622+00:00",
+  "elapsed": 0.167618,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:35 GMT",
+    "ETag": "\"25f85b66f9ce5e37beea7f92281d5d31\"",
+    "Last-Modified": "Mon, 17 Jun 2024 09:11:39 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 512a3ed98fa59f06791d5919b48bcde0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "ESgBined9mRzeyetAiUNJvqi3Bj4chgyMUv720gIzhVvCCjQaUNX_w==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/SessionStatus.jsonStream"
+}

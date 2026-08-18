@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTIzMCwiTmFtZSI6IlNhdWRpIEFyYWJpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBTVEMgU0FVREkgQVJBQklBTiBHUkFORCBQUklYIDIwMjQiLCJMb2NhdGlvbiI6IkplZGRhaCIsIkNvdW50cnkiOnsiS2V5IjoxNTMsIkNvZGUiOiJLU0EiLCJOYW1lIjoiU2F1ZGkgQXJhYmlhIn0sIkNpcmN1aXQiOnsiS2V5IjoxNDksIlNob3J0TmFtZSI6IkplZGRhaCJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6OTQ3NCwiVHlwZSI6IlByYWN0aWNlIiwiTnVtYmVyIjoyLCJOYW1lIjoiUHJhY3RpY2UgMiIsIlN0YXJ0RGF0ZSI6IjIwMjQtMDMtMDdUMjA6MDA6MDAiLCJFbmREYXRlIjoiMjAyNC0wMy0wN1QyMTowMDowMCIsIkdtdE9mZnNldCI6IjAzOjAwOjAwIiwiUGF0aCI6IjIwMjQvMjAyNC0wMy0wOV9TYXVkaV9BcmFiaWFuX0dyYW5kX1ByaXgvMjAyNC0wMy0wN19QcmFjdGljZV8yLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:10.894195+00:00",
+  "elapsed": 0.176904,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "518",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:11 GMT",
+    "ETag": "\"ed4bd230d4ccd346e719a6f7c280c45c\"",
+    "Last-Modified": "Tue, 18 Jun 2024 12:46:43 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 577c189d14f20f4f61c76d2711499f1c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "UO90_5Go7Y8FyXZfTXasJxsHg33pASbcsFUYLhvb_9DRZy0LUPDgEA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-03-09_Saudi_Arabian_Grand_Prix/2024-03-07_Practice_2/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-03-09_Saudi_Arabian_Grand_Prix/2024-03-07_Practice_2/SessionInfo.jsonStream"
+}

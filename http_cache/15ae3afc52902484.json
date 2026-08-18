@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDQuNDI3eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMTowMjoyMi41NTl7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6MDU6MzguNzEyeyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAxOjQxOjAwLjEwNHsiU3RhdHVzIjoiU3RhcnRlZCJ9DQowMzowMDo0Ni4wNTh7IlN0YXR1cyI6IkZpbmlzaGVkIn0NCjAzOjA0OjAzLjQ4NHsiU3RhdHVzIjoiRmluYWxpc2VkIn0NCjAzOjA0OjAzLjQ4NHsiU3RhdHVzIjoiRW5kcyJ9DQo=",
+  "created_at": "2026-08-20T11:23:39.421304+00:00",
+  "elapsed": 0.067214,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2285",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "242",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:45:35 GMT",
+    "ETag": "\"3ffa8afa6384c2fa1ecec1e1dfd0c154\"",
+    "Last-Modified": "Tue, 18 Jun 2024 00:04:33 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 67b46acac5b2604c39c0417497d3d218.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "yHd4kjXKv8y6PJNy_o7AQGkMJuffCfKzNclUdHCisO35DliNmak7ug==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/SessionStatus.jsonStream"
+}

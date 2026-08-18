@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MTEuMDg0eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxMzozNS4wNTh7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6MjU6MzUuMDU4eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMDozNDo0MS4wNzN7IlN0YXR1cyI6IkluYWN0aXZlIn0NCjAwOjM3OjM1LjQ5MHsiU3RhdHVzIjoiU3RhcnRlZCJ9DQowMDo0NzozNS4wNjB7IlN0YXR1cyI6IkZpbmlzaGVkIn0NCjAwOjUyOjQzLjc3N3siU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDA6NTQ6MzUuMDYxeyJTdGF0dXMiOiJTdGFydGVkIn0NCjAxOjAyOjM1LjA3MXsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDE6MDk6MzEuMTQ0eyJTdGF0dXMiOiJGaW5hbGlzZWQifQ0KMDE6MTA6NTUuNDc4eyJTdGF0dXMiOiJFbmRzIn0NCg==",
+  "created_at": "2026-08-20T11:23:06.480824+00:00",
+  "elapsed": 0.175535,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "382",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:07 GMT",
+    "ETag": "\"84084582b825ba65c5becc22a55622ca\"",
+    "Last-Modified": "Tue, 18 Jun 2024 14:21:28 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0b2ae559ee268e62d32798bba4c8c014.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "S6WfjouCfeml-XlfRva-iI1hqUlcpsfgDCxwyq-LHxCj-SLlcjSBkg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-04-21_Chinese_Grand_Prix/2024-04-19_Sprint_Qualifying/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-04-21_Chinese_Grand_Prix/2024-04-19_Sprint_Qualifying/SessionStatus.jsonStream"
+}

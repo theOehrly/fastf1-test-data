@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDYuNjg2eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMTowMTozNy41MTR7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6MjQ6NTIuNDA0eyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAxOjQyOjUyLjkzMnsiU3RhdHVzIjoiU3RhcnRlZCJ9DQowMTo0ODoyMi40MTF7IlN0YXR1cyI6IkFib3J0ZWQifQ0KMDI6MDc6NTIuOTM3eyJTdGF0dXMiOiJTdGFydGVkIn0NCjAzOjA3OjUyLjk0NnsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDM6MTI6MzkuNzA3eyJTdGF0dXMiOiJGaW5hbGlzZWQifQ0KMDM6MTY6MzQuODcyeyJTdGF0dXMiOiJFbmRzIn0NCg==",
+  "created_at": "2026-08-20T11:24:16.072292+00:00",
+  "elapsed": 0.066219,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2024",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "310",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:50:33 GMT",
+    "ETag": "\"dbca7aff2f18590522bfc7fefbf3a0b7\"",
+    "Last-Modified": "Tue, 18 Jun 2024 06:48:22 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 3a5ebe10b769db9444c2df2c2e8a76a8.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "5gdPmvibAeCnLaLSPwB3YBvtPeHQx9atWcpNMXL--Bpzbm7cjcT_GA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/SessionStatus.jsonStream"
+}

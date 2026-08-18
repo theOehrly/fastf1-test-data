@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuOTkxeyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDozMzo0MS43MTl7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6NTc6NTAuNzExeyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMjowMToxNy42Mzh7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjowMToyNi4yNTF7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:23:20.198383+00:00",
+  "elapsed": 0.163691,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:21 GMT",
+    "ETag": "\"454d8c936f4a49695be27da3cf6d493f\"",
+    "Last-Modified": "Mon, 17 Jun 2024 11:57:14 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0b2ae559ee268e62d32798bba4c8c014.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "9qRWbJPFveVgcjD8Ml1L3Jm8keIVqmYYygTSrfW3TQ-XEf67AGmDpg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/SessionStatus.jsonStream"
+}

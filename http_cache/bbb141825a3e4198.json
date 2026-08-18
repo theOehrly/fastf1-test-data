@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTEwMywiTmFtZSI6Ik1leGljbyBDaXR5IEdyYW5kIFByaXgiLCJMb2NhdGlvbiI6Ik1leGljbyBDaXR5IiwiQ291bnRyeSI6eyJLZXkiOjgsIkNvZGUiOiJNRVgiLCJOYW1lIjoiTWV4aWNvIn0sIkNpcmN1aXQiOnsiS2V5Ijo2NSwiU2hvcnROYW1lIjoiTWV4aWNvIENpdHkifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjY1NjUsIlR5cGUiOiJRdWFsaWZ5aW5nIiwiTmFtZSI6IlF1YWxpZnlpbmciLCJTdGFydERhdGUiOiIyMDIxLTExLTA2VDE0OjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjEtMTEtMDZUMTU6MDA6MDAiLCJHbXRPZmZzZXQiOiItMDY6MDA6MDAiLCJQYXRoIjoiMjAyMS8yMDIxLTExLTA3X01leGljb19DaXR5X0dyYW5kX1ByaXgvMjAyMS0xMS0wNl9RdWFsaWZ5aW5nLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:52.294032+00:00",
+  "elapsed": 0.183897,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "446",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:53 GMT",
+    "ETag": "\"0d9c13c42fc2489881d66487ae6319de\"",
+    "Last-Modified": "Tue, 18 Jun 2024 04:31:26 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 ed0321bab00e6823808eaacb7b137e08.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "DEbaAikt2MjBG7U4dLeDEyF3L4IWZA-YI3PBvwEzmUROwxuiPHKFig==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-06_Qualifying/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-06_Qualifying/SessionInfo.jsonStream"
+}

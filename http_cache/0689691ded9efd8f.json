@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjQ3OjU1LjE2MHsiU3RhdHVzIjoiNCIsIk1lc3NhZ2UiOiJTQ0RlcGxveWVkIn0NCjAxOjU1OjQwLjgxMXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQo=",
+  "created_at": "2026-08-20T11:24:40.064410+00:00",
+  "elapsed": 0.15356,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "152",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:41 GMT",
+    "ETag": "\"a81a36b9af450f148b9f4b624ffaee00\"",
+    "Last-Modified": "Sun, 13 Apr 2025 17:06:22 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 541abc390c35db77f7d121c96f0661ec.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "x67jh222bsjEr50UO3RDZhBPN8_EbeMLarHIvRFZhAmfiNatdpzV6w==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-04-13_Bahrain_Grand_Prix/2025-04-13_Race/TrackStatus.jsonStream"
+}

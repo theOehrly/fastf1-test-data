@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MTQ6NDIuNDUxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjMxOjAzLjU1OHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MzE6MzUuOTA4eyJTdGF0dXMiOiI2IiwiTWVzc2FnZSI6IlZTQ0RlcGxveWVkIn0NCjAxOjMzOjA4LjAzNnsiU3RhdHVzIjoiNyIsIk1lc3NhZ2UiOiJWU0NFbmRpbmcifQ0KMDE6MzM6MjEuMjAzeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjM1OjEyLjI5OXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MzU6NDMuMDQweyJTdGF0dXMiOiI1IiwiTWVzc2FnZSI6IlJlZCJ9DQo=",
+  "created_at": "2026-08-20T11:22:21.593599+00:00",
+  "elapsed": 0.177102,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "341",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:22 GMT",
+    "ETag": "\"1aa7dfa0e096cc552f7bd46b67446315\"",
+    "Last-Modified": "Mon, 17 Jun 2024 10:29:54 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0dfb58f1fc97e590bcf6bcf75288d878.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "r0jZsiPNb18FW5WnFBfTOeph8CqI8CN-Hv7ZiZWI3noKz-fCsaiS5A==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-08-09_70th_Anniversary_Grand_Prix/2020-08-07_Practice_2/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-08-09_70th_Anniversary_Grand_Prix/2020-08-07_Practice_2/TrackStatus.jsonStream"
+}

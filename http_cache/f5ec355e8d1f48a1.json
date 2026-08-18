@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDkuMDcyeyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxNTowMC4yMzZ7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6MTU6MDAuMjU1eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMToxODozNi44NTd7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMToxODozOC41Nzh7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:25:33.908892+00:00",
+  "elapsed": 0.159033,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:25:34 GMT",
+    "ETag": "\"67fcafffe7651ff0ebfb4cddcf1bda7b\"",
+    "Last-Modified": "Mon, 17 Jun 2024 18:00:19 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 03f0b5e1388e49b279dc44f8ff1caa78.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "rPFWdDbbDhGFEy_1TcZkHShYZxjW_Nhkq4yBRRjlbTZlSegI3fLfcg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Practice_3/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Practice_3/SessionStatus.jsonStream"
+}

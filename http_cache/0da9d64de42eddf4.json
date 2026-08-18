@@ -1,0 +1,32 @@
+{
+  "_content": "Q2lyY3VpdCBub3QgZm91bmQ=",
+  "created_at": "2026-08-20T11:25:37.502703+00:00",
+  "elapsed": 0.125491,
+  "headers": {
+    "CF-RAY": "a2e109d4f8a06ab9-TXL",
+    "Connection": "keep-alive",
+    "Content-Length": "17",
+    "Date": "Thu, 20 Aug 2026 11:25:37 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=hZPAzW8GqT%2FoBNBxjLoN39%2Bx23eqAUsZb7LNFZrIj5B%2BmCGVx7bsWqh5a2U6GHStNo%2BIgC%2BgwaKiaXomYc3ll0zNfTRx2fjP0NN6244DPmgAvY%2BWwtE19y9sxuwC7jJe7IRTX5ihmeBpfnpb1YoG67o%3D\"}]}",
+    "Vary": "accept-encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cache-control": "max-age=0, private, must-revalidate",
+    "cf-cache-status": "BYPASS",
+    "server": "cloudflare",
+    "x-request-id": "GM1_yxyPD4b_5AcAADZx"
+  },
+  "reason": "Not Found",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "User-Agent": "FastF1/3.9.0"
+    },
+    "method": "GET",
+    "url": "https://api.multiviewer.app/api/v1/circuits/0/2020"
+  },
+  "status_code": 404,
+  "url": "https://api.multiviewer.app/api/v1/circuits/0/2020"
+}

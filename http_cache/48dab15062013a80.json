@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuNzQ5eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMTowMjo0Ni4zMDB7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDI6MzA6MjQuNzQxeyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMjozNDo1OS4zMTZ7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjozNTowMC4zNjN7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:22:50.840579+00:00",
+  "elapsed": 0.15472,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:51 GMT",
+    "ETag": "\"ed3113d49b76fceb08a016f5ccf018e9\"",
+    "Last-Modified": "Wed, 19 Jun 2024 13:45:15 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 de8b46af7190cc021fd8b12be6996a2e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "tEgKiRIzZWmqxmZlS-2EA0PSSeytlH6eVVhQ2pGYespOCqg7cphKsw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/SessionStatus.jsonStream"
+}

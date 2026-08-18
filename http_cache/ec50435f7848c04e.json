@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA2NCwiTmFtZSI6IkJhaHJhaW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiU2FraGlyIiwiQ291bnRyeSI6eyJLZXkiOjM2LCJDb2RlIjoiQlJOIiwiTmFtZSI6IkJhaHJhaW4ifSwiQ2lyY3VpdCI6eyJLZXkiOjYzLCJTaG9ydE5hbWUiOiJTYWtoaXIifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjYyMTIsIlR5cGUiOiJQcmFjdGljZSIsIk51bWJlciI6MywiTmFtZSI6IlByYWN0aWNlIDMiLCJTdGFydERhdGUiOiIyMDIxLTAzLTI3VDE1OjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjEtMDMtMjdUMTY6MDA6MDAiLCJHbXRPZmZzZXQiOiIwMzowMDowMCIsIlBhdGgiOiIyMDIxLzIwMjEtMDMtMjhfQmFocmFpbl9HcmFuZF9Qcml4LzIwMjEtMDMtMjdfUHJhY3RpY2VfMy8ifQ0K",
+  "created_at": "2026-08-20T11:25:33.310240+00:00",
+  "elapsed": 0.17831,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "438",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:25:34 GMT",
+    "ETag": "\"18836c26034cd95af127595a1f92c315\"",
+    "Last-Modified": "Mon, 17 Jun 2024 18:00:17 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 99a7400285d83f528f50f54d665628e2.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "rpWJTzcPFDob9MxJPQ8v_Kgmj0ZLIAY81nDScf28y1rQoCJqY62tMg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Practice_3/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-03-28_Bahrain_Grand_Prix/2021-03-27_Practice_3/SessionInfo.jsonStream"
+}

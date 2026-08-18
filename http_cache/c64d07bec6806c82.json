@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDYuNjI3eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDozMzowOS44MDh7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDI6MDM6MDYuODI4eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMjowNzozNC4wNTR7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjowNzozNC4wNTR7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:25:28.301234+00:00",
+  "elapsed": 0.169408,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:25:29 GMT",
+    "ETag": "\"10df3a53930fb3bf0fcb78fe168c608d\"",
+    "Last-Modified": "Mon, 17 Jun 2024 14:41:45 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 3d60650fd0c339e18e816ce29f9a0da0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "nLeXuL4lrJ6Dm3FTL49bAxKWK7S60lnbMyX5N5t-hS4oQApRuPRY0A==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/SessionStatus.jsonStream"
+}

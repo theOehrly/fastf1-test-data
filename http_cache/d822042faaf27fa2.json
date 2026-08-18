@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTEyNSwiTmFtZSI6IlNhdWRpIEFyYWJpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBTVEMgU0FVREkgQVJBQklBTiBHUkFORCBQUklYIDIwMjIiLCJMb2NhdGlvbiI6IkplZGRhaCIsIkNvdW50cnkiOnsiS2V5IjoxNTMsIkNvZGUiOiJLU0EiLCJOYW1lIjoiU2F1ZGkgQXJhYmlhIn0sIkNpcmN1aXQiOnsiS2V5IjoxNDksIlNob3J0TmFtZSI6IkplZGRhaCJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6Njk5NSwiVHlwZSI6IlF1YWxpZnlpbmciLCJOYW1lIjoiUXVhbGlmeWluZyIsIlN0YXJ0RGF0ZSI6IjIwMjItMDMtMjZUMjA6MDA6MDAiLCJFbmREYXRlIjoiMjAyMi0wMy0yNlQyMTowMDowMCIsIkdtdE9mZnNldCI6IjAzOjAwOjAwIiwiUGF0aCI6IjIwMjIvMjAyMi0wMy0yN19TYXVkaV9BcmFiaWFuX0dyYW5kX1ByaXgvMjAyMi0wMy0yNl9RdWFsaWZ5aW5nLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:56.014235+00:00",
+  "elapsed": 0.227478,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e10759f9b1d411-FRA",
+    "Connection": "close",
+    "Content-Length": "509",
+    "Date": "Thu, 20 Aug 2026 11:23:55 GMT",
+    "ETag": "\"720ac4782c47048a6e5e29c9af24caf5\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:49:22 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=lLaIBaFrpQtCKEnqlVgyOLwCS6SWwn6aqccqxe%2B31t74bUegSjlkZgrfVwgjdOmBjZGap3l7G5FVEyMEiMp1tcXvzrdCsyQPGD7nubHUVjPv4yAWj8T9jP5FcJvGwq2%2FggwdyDxnOSeMcBw3NvpMntJRJswVSiy9ckFf\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/SessionInfo.jsonStream"
+}

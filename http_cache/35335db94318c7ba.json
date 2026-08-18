@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDcuMDc4eyJTdGF0dXMiOiJJbmFjdGl2ZSIsIlN0YXJ0ZWQiOiJJbmFjdGl2ZSJ9DQowMDo1NjoyNC4wNTB7IlN0YXR1cyI6IlN0YXJ0ZWQiLCJTdGFydGVkIjoiU3RhcnRlZCJ9DQowMjoyOTozOS45MDV7IlN0YXR1cyI6IkZpbmlzaGVkIiwiU3RhcnRlZCI6IkZpbmlzaGVkIn0NCjAyOjMyOjE4LjE2NHsiU3RhdHVzIjoiRmluYWxpc2VkIiwiU3RhcnRlZCI6IkZpbmlzaGVkIn0NCjAyOjMzOjI5LjIzOHsiU3RhdHVzIjoiRW5kcyIsIlN0YXJ0ZWQiOiJGaW5pc2hlZCJ9DQo=",
+  "created_at": "2026-08-20T11:23:48.537668+00:00",
+  "elapsed": 0.080211,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2084",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "278",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:49:05 GMT",
+    "ETag": "\"65ac1a4ed2949daee5a8b4323cd5ba0d\"",
+    "Last-Modified": "Sun, 15 Mar 2026 08:59:59 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 455035b7b3ab5f564b775e2968249d3e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "LEOoVwqir3iKkKiHEhXf2sMkI7szfY6E1snsOmXcdDoe2P_RdatkWQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2026/2026-03-15_Chinese_Grand_Prix/2026-03-15_Race/SessionStatus.jsonStream"
+}

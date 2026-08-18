@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTEyNCwiTmFtZSI6IkJhaHJhaW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBHVUxGIEFJUiBCQUhSQUlOIEdSQU5EIFBSSVggMjAyMiIsIkxvY2F0aW9uIjoiU2FraGlyIiwiQ291bnRyeSI6eyJLZXkiOjM2LCJDb2RlIjoiQlJOIiwiTmFtZSI6IkJhaHJhaW4ifSwiQ2lyY3VpdCI6eyJLZXkiOjYzLCJTaG9ydE5hbWUiOiJTYWtoaXIifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjY5OTMsIlR5cGUiOiJSYWNlIiwiTmFtZSI6IlJhY2UiLCJTdGFydERhdGUiOiIyMDIyLTAzLTIwVDE4OjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjItMDMtMjBUMjA6MDA6MDAiLCJHbXRPZmZzZXQiOiIwMzowMDowMCIsIlBhdGgiOiIyMDIyLzIwMjItMDMtMjBfQmFocmFpbl9HcmFuZF9Qcml4LzIwMjItMDMtMjBfUmFjZS8ifQ0K",
+  "created_at": "2026-08-20T11:24:00.064229+00:00",
+  "elapsed": 0.220405,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e107736e82da39-TXL",
+    "Connection": "close",
+    "Content-Length": "471",
+    "Date": "Thu, 20 Aug 2026 11:24:00 GMT",
+    "ETag": "\"eb94caa68bdbe86994b57cd862daf97d\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:52:01 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=q1xZ%2Bu%2FGnvwzmSwqrK%2FwhsN875qXFSV9Gs1WuNjRpjMtMku3IfZ2D9%2BvvrwV4SHh%2F4NfvaQMkJgxVd3Adt1k20TndGkFCV3%2B5zko0Z968g1iNHHuQWBxRdPfnoCX8SZNyV1UeOGQEZ9kp6ZhAx3BSvtuxAwWbWx8pc5k\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-20_Bahrain_Grand_Prix/2022-03-20_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-20_Bahrain_Grand_Prix/2022-03-20_Race/SessionInfo.jsonStream"
+}

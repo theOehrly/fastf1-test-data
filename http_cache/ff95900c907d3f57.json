@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDYuNDc4eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxNTowMC4zMDZ7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6MjI6MDIuNDYzeyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAwOjQ1OjExLjI2NnsiU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDA6NDg6MDAuMzA0eyJTdGF0dXMiOiJTdGFydGVkIn0NCjAwOjU4OjU4LjMwM3siU3RhdHVzIjoiRmluaXNoZWQifQ0KMDE6MDQ6MDcuNjU2eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMTowNjowMC4zMTJ7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6MjE6MDAuMzE3eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMToyNzowNS4yMzR7IlN0YXR1cyI6IkluYWN0aXZlIn0NCjAxOjI5OjAwLjMwOHsiU3RhdHVzIjoiU3RhcnRlZCJ9DQowMTo0MTowMC4zMDd7IlN0YXR1cyI6IkZpbmlzaGVkIn0NCjAxOjQ0OjA2Ljk3OXsiU3RhdHVzIjoiRmluYWxpc2VkIn0NCjAxOjUxOjAzLjcwNnsiU3RhdHVzIjoiRW5kcyJ9DQo=",
+  "created_at": "2026-08-20T11:23:53.451966+00:00",
+  "elapsed": 0.197737,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "485",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:54 GMT",
+    "ETag": "\"9e27b81e6badf9e0bba00b7064868897\"",
+    "Last-Modified": "Tue, 18 Jun 2024 04:31:28 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 99a7400285d83f528f50f54d665628e2.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "t8vsjLA-5M4ZqhOY6yI_dxix7mRtHd8VVJA1230kD-VS26ec9PEWww==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-06_Qualifying/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-11-07_Mexico_City_Grand_Prix/2021-11-06_Qualifying/SessionStatus.jsonStream"
+}

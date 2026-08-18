@@ -1,0 +1,177 @@
+{
+  "created_at": "2026-08-20T11:23:42.543648+00:00",
+  "elapsed": 0.260361,
+  "encoding": "utf-8",
+  "headers": {
+    "CF-RAY": "a2e107054c7f5053-TXL",
+    "Cache-Control": "max-age=600",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Type": "application/json",
+    "Date": "Thu, 20 Aug 2026 11:23:42 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kiMky4hJcwNXePswyWxTkDhXSFXR5gb%2F0OJQEcqMT0Dhutdbm9IMffVLmE%2FXmMnYTcv3VZU04usspEY3qB8bgcRDFU6oloU%2BSMCRL39mLSinW6XE4USvqbvVMCtYH5%2BsSW9xTI72KW2Dw6s%3D\"}]}",
+    "Server": "cloudflare",
+    "Transfer-Encoding": "chunked",
+    "allow": "GET, HEAD, OPTIONS",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "MISS",
+    "cross-origin-opener-policy": "same-origin",
+    "expires": "Thu, 20 Aug 2026 11:33:42 GMT",
+    "last-modified": "Thu, 20 Aug 2026 11:23:42 GMT",
+    "referrer-policy": "same-origin",
+    "vary": "Accept, origin, accept-encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "User-Agent": "FastF1/3.9.0"
+    },
+    "method": "GET",
+    "url": "https://api.jolpi.ca/ergast/f1/2021/10/laps/1.json"
+  },
+  "status_code": 200,
+  "url": "https://api.jolpi.ca/ergast/f1/2021/10/laps/1.json",
+  "_decoded_content": {
+    "MRData": {
+      "xmlns": "",
+      "series": "f1",
+      "url": "https://api.jolpi.ca/ergast/f1/2021/10/laps/1.json",
+      "limit": "30",
+      "offset": "0",
+      "total": "19",
+      "RaceTable": {
+        "season": "2021",
+        "round": "10",
+        "Races": [
+          {
+            "season": "2021",
+            "round": "10",
+            "url": "https://en.wikipedia.org/wiki/2021_British_Grand_Prix",
+            "raceName": "British Grand Prix",
+            "Circuit": {
+              "circuitId": "silverstone",
+              "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
+              "circuitName": "Silverstone Circuit",
+              "Location": {
+                "lat": "52.0786",
+                "long": "-1.01694",
+                "locality": "Silverstone",
+                "country": "UK"
+              }
+            },
+            "date": "2021-07-18",
+            "time": "14:00:00Z",
+            "Laps": [
+              {
+                "number": "1",
+                "Timings": [
+                  {
+                    "driverId": "leclerc",
+                    "time": "2:02.700",
+                    "position": "1"
+                  },
+                  {
+                    "driverId": "hamilton",
+                    "time": "2:05.599",
+                    "position": "2"
+                  },
+                  {
+                    "driverId": "bottas",
+                    "time": "2:06.173",
+                    "position": "3"
+                  },
+                  {
+                    "driverId": "norris",
+                    "time": "2:08.698",
+                    "position": "4"
+                  },
+                  {
+                    "driverId": "ricciardo",
+                    "time": "2:09.397",
+                    "position": "5"
+                  },
+                  {
+                    "driverId": "vettel",
+                    "time": "2:10.610",
+                    "position": "6"
+                  },
+                  {
+                    "driverId": "alonso",
+                    "time": "2:12.307",
+                    "position": "7"
+                  },
+                  {
+                    "driverId": "sainz",
+                    "time": "2:13.629",
+                    "position": "8"
+                  },
+                  {
+                    "driverId": "raikkonen",
+                    "time": "2:16.273",
+                    "position": "9"
+                  },
+                  {
+                    "driverId": "ocon",
+                    "time": "2:16.727",
+                    "position": "10"
+                  },
+                  {
+                    "driverId": "stroll",
+                    "time": "2:17.724",
+                    "position": "11"
+                  },
+                  {
+                    "driverId": "gasly",
+                    "time": "2:19.081",
+                    "position": "12"
+                  },
+                  {
+                    "driverId": "giovinazzi",
+                    "time": "2:20.441",
+                    "position": "13"
+                  },
+                  {
+                    "driverId": "russell",
+                    "time": "2:22.688",
+                    "position": "14"
+                  },
+                  {
+                    "driverId": "tsunoda",
+                    "time": "2:24.225",
+                    "position": "15"
+                  },
+                  {
+                    "driverId": "mick_schumacher",
+                    "time": "2:25.570",
+                    "position": "16"
+                  },
+                  {
+                    "driverId": "latifi",
+                    "time": "2:26.229",
+                    "position": "17"
+                  },
+                  {
+                    "driverId": "mazepin",
+                    "time": "2:28.985",
+                    "position": "18"
+                  },
+                  {
+                    "driverId": "perez",
+                    "time": "2:29.563",
+                    "position": "19"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

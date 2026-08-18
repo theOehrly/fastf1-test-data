@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDE6MTcuNTQ3eyJDdXJyZW50TGFwIjoxLCJUb3RhbExhcHMiOjE5fQ0KMDA6NDk6NDIuMDUzeyJUb3RhbExhcHMiOjE4fQ0KMDE6MTM6MDcuOTg3eyJDdXJyZW50TGFwIjoyfQ0KMDE6MTY6MDEuNjIweyJDdXJyZW50TGFwIjozfQ0KMDE6MTg6NDMuMzgweyJDdXJyZW50TGFwIjo0fQ0KMDE6MjA6MjMuNjM5eyJDdXJyZW50TGFwIjo1fQ0KMDE6MjI6MDQuMDQyeyJDdXJyZW50TGFwIjo2fQ0KMDE6MjM6NDQuOTI3eyJDdXJyZW50TGFwIjo3fQ0KMDE6MjU6MjUuMDg4eyJDdXJyZW50TGFwIjo4fQ0KMDE6Mjc6MDUuOTIweyJDdXJyZW50TGFwIjo5fQ0KMDE6Mjg6NDcuMDYzeyJDdXJyZW50TGFwIjoxMH0NCjAxOjMwOjI4Ljg5MXsiQ3VycmVudExhcCI6MTF9DQowMTozMjoxMC44NzR7IkN1cnJlbnRMYXAiOjEyfQ0KMDE6MzM6NTMuMTE5eyJDdXJyZW50TGFwIjoxM30NCjAxOjM1OjM2LjA0MXsiQ3VycmVudExhcCI6MTR9DQowMTozNzoyMS40NzZ7IkN1cnJlbnRMYXAiOjE1fQ0KMDE6NDA6MTQuNDIyeyJDdXJyZW50TGFwIjoxNn0NCjAxOjQyOjQwLjU1N3siQ3VycmVudExhcCI6MTd9DQowMTo0NTowMC43MTV7IkN1cnJlbnRMYXAiOjE4fQ0K",
+  "created_at": "2026-08-20T11:24:50.240348+00:00",
+  "elapsed": 0.150635,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "597",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:51 GMT",
+    "ETag": "\"f12895303425f38c96eaaf2030a94380\"",
+    "Last-Modified": "Sat, 03 May 2025 17:31:12 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 3c2c38b11de7f29e091125f84ca68d28.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "yeEUjaD8QWJANvy0tKokrFRm6lIyWj3DzvXv-uVs59lC3wUPZtpyyA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/LapCount.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/LapCount.jsonStream"
+}

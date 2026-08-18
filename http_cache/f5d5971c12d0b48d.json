@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjMwOjUzLjg1NnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MzE6MTIuNDUxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjUwOjEzLjA0MnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NTA6MTQuODQ1eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjE1OjU4LjQ0OXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MTY6MTAuMjY0eyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDE6MjQ6NTIuNjg4eyJTdGF0dXMiOiI1IiwiTWVzc2FnZSI6IlJlZCJ9DQowMTozNDoyMS40NzR7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDE6NDc6NDcuMjc2eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMTo0ODoyMi41Njl7IlN0YXR1cyI6IjUiLCJNZXNzYWdlIjoiUmVkIn0NCjAyOjAwOjM0LjIwM3siU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjoyMjoyMy40MTl7IlN0YXR1cyI6IjIiLCJNZXNzYWdlIjoiWWVsbG93In0NCjAyOjIzOjEwLjAyNXsiU3RhdHVzIjoiNiIsIk1lc3NhZ2UiOiJWU0NEZXBsb3llZCJ9DQowMjoyNDo1OC44NzF7IlN0YXR1cyI6IjciLCJNZXNzYWdlIjoiVlNDRW5kaW5nIn0NCjAyOjI1OjA5LjkzMXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjozMDowNy44MDh7IlN0YXR1cyI6IjYiLCJNZXNzYWdlIjoiVlNDRGVwbG95ZWQifQ0KMDI6MzA6NDMuMzUzeyJTdGF0dXMiOiI3IiwiTWVzc2FnZSI6IlZTQ0VuZGluZyJ9DQowMjozMDo1OC4yNzF7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDI6MzM6MDIuNTMweyJTdGF0dXMiOiI2IiwiTWVzc2FnZSI6IlZTQ0RlcGxveWVkIn0NCjAyOjQwOjEyLjY2MHsiU3RhdHVzIjoiNyIsIk1lc3NhZ2UiOiJWU0NFbmRpbmcifQ0KMDI6NDA6MjMuNzY3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjQ0OjUyLjMxOHsiU3RhdHVzIjoiNiIsIk1lc3NhZ2UiOiJWU0NEZXBsb3llZCJ9DQowMjo0NToyNi42MDZ7IlN0YXR1cyI6IjciLCJNZXNzYWdlIjoiVlNDRW5kaW5nIn0NCjAyOjQ1OjM5LjQ1M3siU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQo=",
+  "created_at": "2026-08-20T11:24:16.574775+00:00",
+  "elapsed": 0.068594,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2023",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1226",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:50:34 GMT",
+    "ETag": "\"c4a64bb24ee1133404aa708a399e8511\"",
+    "Last-Modified": "Tue, 18 Jun 2024 06:49:01 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 455035b7b3ab5f564b775e2968249d3e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "uMnKe9LNzbO5oDyyvlPOcAH7bW47pce9hJGTPrXd8pOJM4FqPtX17g==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-12-05_Saudi_Arabian_Grand_Prix/2021-12-05_Race/TrackStatus.jsonStream"
+}

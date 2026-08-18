@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTEyNSwiTmFtZSI6IlNhdWRpIEFyYWJpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBTVEMgU0FVREkgQVJBQklBTiBHUkFORCBQUklYIDIwMjIiLCJMb2NhdGlvbiI6IkplZGRhaCIsIkNvdW50cnkiOnsiS2V5IjoxNTMsIkNvZGUiOiJLU0EiLCJOYW1lIjoiU2F1ZGkgQXJhYmlhIn0sIkNpcmN1aXQiOnsiS2V5IjoxNDksIlNob3J0TmFtZSI6IkplZGRhaCJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6Njk5NCwiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMjItMDMtMjdUMjA6MDA6MDAiLCJFbmREYXRlIjoiMjAyMi0wMy0yN1QyMjowMDowMCIsIkdtdE9mZnNldCI6IjAzOjAwOjAwIiwiUGF0aCI6IjIwMjIvMjAyMi0wMy0yN19TYXVkaV9BcmFiaWFuX0dyYW5kX1ByaXgvMjAyMi0wMy0yN19SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:13.063170+00:00",
+  "elapsed": 0.215218,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e1064dbce9321c-TXL",
+    "Connection": "close",
+    "Content-Length": "491",
+    "Date": "Thu, 20 Aug 2026 11:23:13 GMT",
+    "ETag": "\"a8ea581c650c1d1f42d88a1979ef3bda\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:50:22 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=D9ojreEJhQXSm5wEbuhIG5eTvlxH1Xofq%2BrYBoIdJOgeIBzXK6oC1kGZIoRVTkSXe0YPhl5lqTWlW3NZ9882llox61GDuqn9Jnv36zZIe52IuyR%2FyNhmuksTxG6AhAZyspmuyo4UdLXqzbiIQWojQjv9Vel5Eq7%2B%2Fgm6\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/SessionInfo.jsonStream"
+}

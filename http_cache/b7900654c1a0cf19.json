@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjEzOjQyLjUwMXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MTQ6MDIuNjQ4eyJTdGF0dXMiOiI1IiwiTWVzc2FnZSI6IlJlZCJ9DQo=",
+  "created_at": "2026-08-20T11:24:31.593356+00:00",
+  "elapsed": 0.174976,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e10838acead382-FRA",
+    "Connection": "close",
+    "Content-Length": "143",
+    "Date": "Thu, 20 Aug 2026 11:24:31 GMT",
+    "ETag": "\"78b49ac70dec5ac1e867d7477e2c0d97\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:47:58 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=4P%2FPoDpXv5HevQBsIXaIII4io9RIudweNhnHHMCR1ei4wkSDBc%2BSDcSC764YBH4Psb2EYlOwOseumQBgaUnheTE%2FGYMwbv9km1bVh3KhjTtViMfSbQ8BBOb5j9xO3OPOg3b%2BVm0Y9jZKE0l5KlXRFF9rUMU51vujntyO\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-07-03_British_Grand_Prix/2022-07-01_Practice_1/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-07-03_British_Grand_Prix/2022-07-01_Practice_1/TrackStatus.jsonStream"
+}

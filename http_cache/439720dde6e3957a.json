@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MTQ6MzkuNTE5eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjE0OjM5LjUxOXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MTQ6MzkuNTE5eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjUyOjA4LjM3M3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NTI6MTkuMzA3eyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDE6MDM6MjEuMjEzeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjU4OjI3LjE4NnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6NTg6NTAuNjI2eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjAwOjM4LjQ4N3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0K",
+  "created_at": "2026-08-20T11:23:20.726684+00:00",
+  "elapsed": 0.191981,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "438",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:21 GMT",
+    "ETag": "\"e7abb2472de36d8de8a43986d174ad70\"",
+    "Last-Modified": "Mon, 17 Jun 2024 11:57:44 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 de8b46af7190cc021fd8b12be6996a2e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "MKPOTVeqiaBiGfn9zaxt4kRH6nEH_n61LI363Qvv1Q2lnFZw7PYK5g==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/TrackStatus.jsonStream"
+}

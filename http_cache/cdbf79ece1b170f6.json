@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuNzY4eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxNTowMC4wODJ7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6NDE6NTAuMDk1eyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAwOjUyOjM4Ljk3NnsiU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDA6NTQ6MDAuMTIweyJTdGF0dXMiOiJTdGFydGVkIn0NCjAxOjE1OjAwLjE5MnsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDE6MTg6MzAuMzMweyJTdGF0dXMiOiJGaW5hbGlzZWQifQ0KMDE6MTg6MzAuMzMweyJTdGF0dXMiOiJFbmRzIn0NCg==",
+  "created_at": "2026-08-20T11:23:36.319316+00:00",
+  "elapsed": 0.155112,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "277",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:37 GMT",
+    "ETag": "\"33f52a391822ffb783f2b08611452f2e\"",
+    "Last-Modified": "Tue, 18 Jun 2024 02:06:50 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 de8b46af7190cc021fd8b12be6996a2e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "vOCqmZL6i2ugkxkhF-JJrIEGeBE6g-X33OZFfNiX00VkQ12L6OCyTA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-09-12_Italian_Grand_Prix/2021-09-11_Practice_2/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-09-12_Italian_Grand_Prix/2021-09-11_Practice_2/SessionStatus.jsonStream"
+}

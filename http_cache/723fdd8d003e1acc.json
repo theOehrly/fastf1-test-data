@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTI1OSwiTmFtZSI6Ik1pYW1pIEdyYW5kIFByaXgiLCJPZmZpY2lhbE5hbWUiOiJGT1JNVUxBIDEgQ1JZUFRPLkNPTSBNSUFNSSBHUkFORCBQUklYIDIwMjUiLCJMb2NhdGlvbiI6Ik1pYW1pIiwiTnVtYmVyIjo2LCJDb3VudHJ5Ijp7IktleSI6MTksIkNvZGUiOiJVU0EiLCJOYW1lIjoiVW5pdGVkIFN0YXRlcyJ9LCJDaXJjdWl0Ijp7IktleSI6MTUxLCJTaG9ydE5hbWUiOiJNaWFtaSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6MTAwMjgsIlR5cGUiOiJSYWNlIiwiTmFtZSI6IlNwcmludCIsIlN0YXJ0RGF0ZSI6IjIwMjUtMDUtMDNUMTI6MDA6MDAiLCJFbmREYXRlIjoiMjAyNS0wNS0wM1QxMzowMDowMCIsIkdtdE9mZnNldCI6Ii0wNDowMDowMCIsIlBhdGgiOiIyMDI1LzIwMjUtMDUtMDRfTWlhbWlfR3JhbmRfUHJpeC8yMDI1LTA1LTAzX1NwcmludC8ifQ0K",
+  "created_at": "2026-08-20T11:24:49.106871+00:00",
+  "elapsed": 0.161917,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "489",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:50 GMT",
+    "ETag": "\"2ada3ebaa372c5035d077ac980757418\"",
+    "Last-Modified": "Sat, 03 May 2025 17:31:13 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 21be3420a436f8727342146a9b19af68.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Di6z8NkpAzxr53I-ZV9JIp6hBA1ehHoE51ITnfiBpqGEGguzgdyaIQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/SessionInfo.jsonStream"
+}

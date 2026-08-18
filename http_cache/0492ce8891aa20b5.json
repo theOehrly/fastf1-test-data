@@ -1,0 +1,173 @@
+{
+  "created_at": "2026-08-20T11:24:56.499970+00:00",
+  "elapsed": 0.129529,
+  "encoding": "utf-8",
+  "headers": {
+    "Age": "573",
+    "CF-RAY": "a2e108d44e29e517-TXL",
+    "Cache-Control": "max-age=600",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Type": "application/json",
+    "Date": "Thu, 20 Aug 2026 11:24:56 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xQiSZ%2BFvJ2cUG%2B5DDeQTz2eiY9r9Yd4Asn1y%2BaqgSL0FUnmZa57kkT2dKGC6Zky3khCRnRct2S%2FofBOXAoecBeZs0rcx6UIF4GTE6sRph6R1rHXzi0LqtZ6reGxeRjLoFoxpwTPVl3Btef0%3D\"}]}",
+    "Server": "cloudflare",
+    "Transfer-Encoding": "chunked",
+    "allow": "GET, HEAD, OPTIONS",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "MISS",
+    "cross-origin-opener-policy": "same-origin",
+    "expires": "Thu, 20 Aug 2026 11:25:23 GMT",
+    "last-modified": "Thu, 20 Aug 2026 11:24:56 GMT",
+    "referrer-policy": "same-origin",
+    "vary": "Accept, origin, accept-encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate",
+      "Connection": "keep-alive",
+      "User-Agent": "FastF1/3.9.0"
+    },
+    "method": "GET",
+    "url": "https://api.jolpi.ca/ergast/f1/2018/4/laps/1.json"
+  },
+  "status_code": 200,
+  "url": "https://api.jolpi.ca/ergast/f1/2018/4/laps/1.json",
+  "_decoded_content": {
+    "MRData": {
+      "xmlns": "",
+      "series": "f1",
+      "url": "https://api.jolpi.ca/ergast/f1/2018/4/laps/1.json",
+      "limit": "30",
+      "offset": "0",
+      "total": "18",
+      "RaceTable": {
+        "season": "2018",
+        "round": "4",
+        "Races": [
+          {
+            "season": "2018",
+            "round": "4",
+            "url": "https://en.wikipedia.org/wiki/2018_Azerbaijan_Grand_Prix",
+            "raceName": "Azerbaijan Grand Prix",
+            "Circuit": {
+              "circuitId": "baku",
+              "url": "https://en.wikipedia.org/wiki/Baku_City_Circuit",
+              "circuitName": "Baku City Circuit",
+              "Location": {
+                "lat": "40.3725",
+                "long": "49.8533",
+                "locality": "Baku",
+                "country": "Azerbaijan"
+              }
+            },
+            "date": "2018-04-29",
+            "time": "12:10:00Z",
+            "Laps": [
+              {
+                "number": "1",
+                "Timings": [
+                  {
+                    "driverId": "vettel",
+                    "time": "2:28.071",
+                    "position": "1"
+                  },
+                  {
+                    "driverId": "hamilton",
+                    "time": "2:29.923",
+                    "position": "2"
+                  },
+                  {
+                    "driverId": "bottas",
+                    "time": "2:31.366",
+                    "position": "3"
+                  },
+                  {
+                    "driverId": "ricciardo",
+                    "time": "2:32.391",
+                    "position": "4"
+                  },
+                  {
+                    "driverId": "max_verstappen",
+                    "time": "2:33.345",
+                    "position": "5"
+                  },
+                  {
+                    "driverId": "raikkonen",
+                    "time": "2:34.726",
+                    "position": "6"
+                  },
+                  {
+                    "driverId": "sainz",
+                    "time": "2:35.191",
+                    "position": "7"
+                  },
+                  {
+                    "driverId": "stroll",
+                    "time": "2:36.169",
+                    "position": "8"
+                  },
+                  {
+                    "driverId": "perez",
+                    "time": "2:36.904",
+                    "position": "9"
+                  },
+                  {
+                    "driverId": "hulkenberg",
+                    "time": "2:37.771",
+                    "position": "10"
+                  },
+                  {
+                    "driverId": "gasly",
+                    "time": "2:39.485",
+                    "position": "11"
+                  },
+                  {
+                    "driverId": "leclerc",
+                    "time": "2:40.388",
+                    "position": "12"
+                  },
+                  {
+                    "driverId": "vandoorne",
+                    "time": "2:41.149",
+                    "position": "13"
+                  },
+                  {
+                    "driverId": "grosjean",
+                    "time": "2:45.430",
+                    "position": "14"
+                  },
+                  {
+                    "driverId": "brendon_hartley",
+                    "time": "2:54.272",
+                    "position": "15"
+                  },
+                  {
+                    "driverId": "alonso",
+                    "time": "3:18.104",
+                    "position": "16"
+                  },
+                  {
+                    "driverId": "kevin_magnussen",
+                    "time": "3:31.147",
+                    "position": "17"
+                  },
+                  {
+                    "driverId": "ericsson",
+                    "time": "3:36.382",
+                    "position": "18"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

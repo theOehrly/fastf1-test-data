@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA1NiwiTmFtZSI6IlBvcnR1Z3Vlc2UgR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiUG9ydGltw6NvIiwiQ291bnRyeSI6eyJLZXkiOjE0NiwiQ29kZSI6IlBPUiIsIk5hbWUiOiJQb3J0dWdhbCJ9LCJDaXJjdWl0Ijp7IktleSI6MTQ3LCJTaG9ydE5hbWUiOiJBbGdhcnZlIEludGVybmF0aW9uYWwgQ2lyY3VpdCJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NTg5NiwiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMjAtMTAtMjVUMTM6MTA6MDAiLCJFbmREYXRlIjoiMjAyMC0xMC0yNVQxNToxMDowMCIsIkdtdE9mZnNldCI6IjAwOjAwOjAwIiwiUGF0aCI6IjIwMjAvMjAyMC0xMC0yNV9Qb3J0dWd1ZXNlX0dyYW5kX1ByaXgvMjAyMC0xMC0yNV9SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:25:27.092520+00:00",
+  "elapsed": 0.199364,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "446",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:25:28 GMT",
+    "ETag": "\"aaa3d415e96cce902a7ca6a1dd7dda2a\"",
+    "Last-Modified": "Mon, 17 Jun 2024 14:41:44 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 0dfb58f1fc97e590bcf6bcf75288d878.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "WDCYoCKw4eU29D3W-Q4DmDs_mfzcydUu7z-1P4bYkaX9tNpYQEIcqQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-10-25_Portuguese_Grand_Prix/2020-10-25_Race/SessionInfo.jsonStream"
+}

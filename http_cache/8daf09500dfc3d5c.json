@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjAxOjM4LjAxNXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MDE6NDkuNzQ5eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjI5OjM2LjYzNnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6Mjk6NTcuNDAxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjMxOjA5LjI0NHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MzI6MjEuOTE1eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjMzOjQyLjEzM3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MzQ6MTQuNDE0eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjQ2OjU2Ljk5OHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NDg6MTAuODczeyJTdGF0dXMiOiI2IiwiTWVzc2FnZSI6IlZTQ0RlcGxveWVkIn0NCjAwOjUxOjIzLjc0NXsiU3RhdHVzIjoiNCIsIk1lc3NhZ2UiOiJTQ0RlcGxveWVkIn0NCjAwOjU3OjAxLjM4MnsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQo=",
+  "created_at": "2026-08-20T11:22:48.495311+00:00",
+  "elapsed": 0.175261,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "635",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:49 GMT",
+    "ETag": "\"8ba5d49267ecde9008554c4984febdb4\"",
+    "Last-Modified": "Wed, 19 Jun 2024 12:55:49 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 541abc390c35db77f7d121c96f0661ec.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "EZNyvVAOlBKoNwUi5XXPdBBCaGiAyB_EDR_9_pPwlC8FpggRntzeiw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/TrackStatus.jsonStream"
+}

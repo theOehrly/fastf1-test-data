@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjAxOjQ2LjU4M3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MTE6MDAuOTU1eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjI0OjA2LjQyM3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MzE6MDIuNzY2eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjI3OjA2LjI0MHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6Mjc6MzIuOTIzeyJTdGF0dXMiOiI2IiwiTWVzc2FnZSI6IlZTQ0RlcGxveWVkIn0NCjAxOjI3OjUxLjk2MnsiU3RhdHVzIjoiNCIsIk1lc3NhZ2UiOiJTQ0RlcGxveWVkIn0NCjAxOjM4OjQwLjQ3MXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjowNToxMy41NTl7IlN0YXR1cyI6IjIiLCJNZXNzYWdlIjoiWWVsbG93In0NCjAyOjA2OjIwLjczOHsiU3RhdHVzIjoiNiIsIk1lc3NhZ2UiOiJWU0NEZXBsb3llZCJ9DQowMjoxMToyNC4xNzN7IlN0YXR1cyI6IjciLCJNZXNzYWdlIjoiVlNDRW5kaW5nIn0NCjAyOjExOjM2LjgwOHsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjoyMzozMi4yNTl7IlN0YXR1cyI6IjIiLCJNZXNzYWdlIjoiWWVsbG93In0NCjAyOjIzOjM5LjU0MXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjoyMzo0MC41Mjl7IlN0YXR1cyI6IjIiLCJNZXNzYWdlIjoiWWVsbG93In0NCjAyOjIzOjQ4LjIzMnsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMjoyNDoxMi40MjR7IlN0YXR1cyI6IjIiLCJNZXNzYWdlIjoiWWVsbG93In0NCg==",
+  "created_at": "2026-08-20T11:23:44.539265+00:00",
+  "elapsed": 0.22321,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e107125a55d7b4-TXL",
+    "Connection": "close",
+    "Content-Length": "880",
+    "Date": "Thu, 20 Aug 2026 11:23:44 GMT",
+    "ETag": "\"a49b808a6328f6d951b5be82de49514e\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:50:13 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=SXv8n51ENjOb4e0kIpT5omadwXkh4UMY5sHR3%2FYcvTTevHskF0XMufz%2Bn59xhw%2BUoscH%2Fy8iEtZyR9nLmm4fnDCfYAUbpFzfsdrfu0et4u0DB5AfVNA0oBA%2FcJNlPY2qzL%2BiMGZnQtTR9qVJYvyqUr6Te7pX5VsqPZQR\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/TrackStatus.jsonStream"
+}

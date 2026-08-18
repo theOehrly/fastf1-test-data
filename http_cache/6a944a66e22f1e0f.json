@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTIwNywiTmFtZSI6IkF6ZXJiYWlqYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBBWkVSQkFJSkFOIEdSQU5EIFBSSVggMjAyMyIsIkxvY2F0aW9uIjoiQmFrdSIsIkNvdW50cnkiOnsiS2V5IjozMCwiQ29kZSI6IkFaRSIsIk5hbWUiOiJBemVyYmFpamFuIn0sIkNpcmN1aXQiOnsiS2V5IjoxNDQsIlNob3J0TmFtZSI6IkJha3UifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjkwNjQsIlR5cGUiOiJRdWFsaWZ5aW5nIiwiTmFtZSI6IlF1YWxpZnlpbmciLCJTdGFydERhdGUiOiIyMDIzLTA0LTI4VDE3OjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjMtMDQtMjhUMTg6MDA6MDAiLCJHbXRPZmZzZXQiOiIwNDowMDowMCIsIlBhdGgiOiIyMDIzLzIwMjMtMDQtMzBfQXplcmJhaWphbl9HcmFuZF9Qcml4LzIwMjMtMDQtMjhfUXVhbGlmeWluZy8ifQ0K",
+  "created_at": "2026-08-20T11:25:24.116529+00:00",
+  "elapsed": 0.170837,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "489",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:25:25 GMT",
+    "ETag": "\"94cef679430aa7a242f0276ad492ca00\"",
+    "Last-Modified": "Wed, 19 Jun 2024 12:49:49 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 be531aac2dc594e7dcbc7bf54e3b6504.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "i3bsgi3uqHQY-lFNCKJgSOwNS4yind06Wl59YQIx5gYhoHWhQXSSyg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-28_Qualifying/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-28_Qualifying/SessionInfo.jsonStream"
+}

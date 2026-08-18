@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA1MiwiTmFtZSI6Ikl0YWxpYW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiTW9uemEiLCJDb3VudHJ5Ijp7IktleSI6MTMsIkNvZGUiOiJJVEEiLCJOYW1lIjoiSXRhbHkifSwiQ2lyY3VpdCI6eyJLZXkiOjM5LCJTaG9ydE5hbWUiOiJNb256YSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NTgwMCwiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMjAtMDktMDZUMTU6MTA6MDAiLCJFbmREYXRlIjoiMjAyMC0wOS0wNlQxNzoxMDowMCIsIkdtdE9mZnNldCI6IjAyOjAwOjAwIiwiUGF0aCI6IjIwMjAvMjAyMC0wOS0wNl9JdGFsaWFuX0dyYW5kX1ByaXgvMjAyMC0wOS0wNl9SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:22:54.487250+00:00",
+  "elapsed": 0.155051,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "407",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:55 GMT",
+    "ETag": "\"04fae2d44d68ab937c4ac7ec851da744\"",
+    "Last-Modified": "Mon, 17 Jun 2024 12:27:43 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 541abc390c35db77f7d121c96f0661ec.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "090WHl8MSPZF0gSMHwHnqmtU4YyOjag5xxgT2YHnswiGvl5s_a8pgg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/SessionInfo.jsonStream"
+}

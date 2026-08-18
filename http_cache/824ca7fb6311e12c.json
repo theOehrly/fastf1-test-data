@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MjQuNDkxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjE3OjQwLjgyNXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MTc6NDUuODE0eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjM0OjIwLjg0M3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MzU6NTQuMzA2eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjQxOjM3LjI0M3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NDI6MjQuNjg0eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjUzOjM2LjQxNnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NTc6NTQuNTM1eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjEyOjA1LjEyMHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MTI6MDguOTU0eyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDE6Mjc6NTAuMTYzeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjA3OjI2LjY1NXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDI6MDc6NDcuMjY4eyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDI6MjU6MDIuNzI3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjI5OjI1LjUxNnsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDI6MzA6NTEuMTQyeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjMzOjE0Ljg2OHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDI6MzM6NDMuNzM0eyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDI6NDM6NTUuMDY5eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCg==",
+  "created_at": "2026-08-20T11:24:45.366520+00:00",
+  "elapsed": 0.153187,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "973",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:46 GMT",
+    "ETag": "\"83ba8ea80024465873dab87efcd7100c\"",
+    "Last-Modified": "Sun, 16 Mar 2025 06:24:45 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 e962a4214db0639b31056a5ae4bf22f4.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "LGbUnBNr3MdCzWqm4G1NPi6m5TUScpTfUzreio47KFp9MC2GCklZDg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/TrackStatus.jsonStream"
+}

@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTE0MSwiTmFtZSI6IkJhaHJhaW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBHVUxGIEFJUiBCQUhSQUlOIEdSQU5EIFBSSVggMjAyMyIsIkxvY2F0aW9uIjoiU2FraGlyIiwiQ291bnRyeSI6eyJLZXkiOjM2LCJDb2RlIjoiQlJOIiwiTmFtZSI6IkJhaHJhaW4ifSwiQ2lyY3VpdCI6eyJLZXkiOjYzLCJTaG9ydE5hbWUiOiJTYWtoaXIifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjc5NTMsIlR5cGUiOiJSYWNlIiwiTmFtZSI6IlJhY2UiLCJTdGFydERhdGUiOiIyMDIzLTAzLTA1VDE4OjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjMtMDMtMDVUMjA6MDA6MDAiLCJHbXRPZmZzZXQiOiIwMzowMDowMCIsIlBhdGgiOiIyMDIzLzIwMjMtMDMtMDVfQmFocmFpbl9HcmFuZF9Qcml4LzIwMjMtMDMtMDVfUmFjZS8ifQ0K",
+  "created_at": "2026-08-20T11:22:37.414762+00:00",
+  "elapsed": 0.164834,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "471",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:38 GMT",
+    "ETag": "\"da892eda995eb0d48f49f4e2e43a2838\"",
+    "Last-Modified": "Wed, 19 Jun 2024 11:32:59 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 46d62d4755f0b1a587a0581348e41608.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "ULLDUuBz64fC9Ruo3dIp561A68p0ckyo1MZzK8CldZjOwNmXFREcew==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/SessionInfo.jsonStream"
+}

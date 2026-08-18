@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA0NywiTmFtZSI6Ikh1bmdhcmlhbiBHcmFuZCBQcml4IiwiTG9jYXRpb24iOiJCdWRhcGVzdCIsIkNvdW50cnkiOnsiS2V5IjoxNCwiQ29kZSI6IkhVTiIsIk5hbWUiOiJIdW5nYXJ5In0sIkNpcmN1aXQiOnsiS2V5Ijo0LCJTaG9ydE5hbWUiOiJIdW5nYXJvcmluZyJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NTc2MiwiVHlwZSI6IlByYWN0aWNlIiwiTnVtYmVyIjoyLCJOYW1lIjoiUHJhY3RpY2UgMiIsIlN0YXJ0RGF0ZSI6IjIwMjAtMDctMTdUMTU6MDA6MDAiLCJFbmREYXRlIjoiMjAyMC0wNy0xN1QxNjozMDowMCIsIkdtdE9mZnNldCI6IjAyOjAwOjAwIiwiUGF0aCI6IjIwMjAvMjAyMC0wNy0xOV9IdW5nYXJpYW5fR3JhbmRfUHJpeC8yMDIwLTA3LTE3X1ByYWN0aWNlXzIvIn0NCg==",
+  "created_at": "2026-08-20T11:23:33.619823+00:00",
+  "elapsed": 0.17382,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "448",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:34 GMT",
+    "ETag": "\"1ee2309b7bd3c71fa7acf8788fe0e90a\"",
+    "Last-Modified": "Mon, 17 Jun 2024 09:11:39 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 4a60bbb27ed6c12061c306cd2a16e4fc.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Eq96ACnIP45qCBUThlwEajwORA4A2tbOL5qV2VNpMnlnf6vahBI1DQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/SessionInfo.jsonStream"
+}

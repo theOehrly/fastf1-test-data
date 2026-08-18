@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDYuODkweyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMToxMTowMC4zNTV7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDI6NTM6MDYuODY5eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMjo1NzoxMi43NDh7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjo1NzoxMi43NDh7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:24:44.865971+00:00",
+  "elapsed": 0.152689,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:45 GMT",
+    "ETag": "\"64c938f04edf57bc920314fdd2393473\"",
+    "Last-Modified": "Sun, 16 Mar 2025 06:24:44 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 db2b666889c24cb2eb0398e459e4aa92.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "hqPByuSxhHlzQ2-ZLwiDK1wvEPDRPWN6YC5QAzLdfWDD2__b0UUZBQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/SessionStatus.jsonStream"
+}

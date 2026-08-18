@@ -1,0 +1,43 @@
+{
+  "_content": "77u/MDA6MDg6MDguMDM1eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDowODozMS4zMTF7IlN0YXR1cyI6IjQiLCJNZXNzYWdlIjoiU0NEZXBsb3llZCJ9DQowMDoyMDo1NS41NDJ7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6Mjk6NDUuODg3eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDoyOTo1Ny4wMzh7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6MzE6NTYuOTQzeyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDozMjoxMS4xMTN7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6Mzg6MjQuNzIxeyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDozOToyMC44NDZ7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6Mzk6MjEuMDg5eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDozOToyNC4wMzB7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6NDQ6MzMuODk0eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDo0NDo0Ni4zOTJ7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6NDg6NDUuMDE5eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDo0ODo1Ni4xNDN7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDE6MjM6MDguNjU5eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMToyMzo1MC40MDJ7IlN0YXR1cyI6IjQiLCJNZXNzYWdlIjoiU0NEZXBsb3llZCJ9DQowMTo0NDowMy40MDZ7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDE6NDY6MzAuNjE4eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMTo0NjozNC4yNDl7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDE6NDY6NDQuMTA2eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMTo0Nzo1OS45MDd7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0K",
+  "created_at": "2026-08-20T11:24:54.688218+00:00",
+  "elapsed": 0.151038,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Language": "en",
+    "Content-Length": "1065",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:55 GMT",
+    "ETag": "\"204acbdf6ba00d3d8329ab2c643e0ac9\"",
+    "Last-Modified": "Fri, 14 Jun 2024 13:58:59 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 db2b666889c24cb2eb0398e459e4aa92.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "nMtOk_TrPmeGX4pu-bogu-WRBDkr07YaVJY4mFJur_X06Vz6aEhZMA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-meta-goog-reserved-file-mtime": "1534978299",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2018/2018-04-29_Azerbaijan_Grand_Prix/2018-04-29_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2018/2018-04-29_Azerbaijan_Grand_Prix/2018-04-29_Race/TrackStatus.jsonStream"
+}

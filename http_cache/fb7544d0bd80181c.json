@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTI0MCwiTmFtZSI6IkJyaXRpc2ggR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBRQVRBUiBBSVJXQVlTIEJSSVRJU0ggR1JBTkQgUFJJWCAyMDI0IiwiTG9jYXRpb24iOiJTaWx2ZXJzdG9uZSIsIkNvdW50cnkiOnsiS2V5IjoyLCJDb2RlIjoiR0JSIiwiTmFtZSI6IkdyZWF0IEJyaXRhaW4ifSwiQ2lyY3VpdCI6eyJLZXkiOjIsIlNob3J0TmFtZSI6IlNpbHZlcnN0b25lIn19LCJBcmNoaXZlU3RhdHVzIjp7IlN0YXR1cyI6IkdlbmVyYXRpbmcifSwiS2V5Ijo5NTUxLCJUeXBlIjoiUHJhY3RpY2UiLCJOdW1iZXIiOjEsIk5hbWUiOiJQcmFjdGljZSAxIiwiU3RhcnREYXRlIjoiMjAyNC0wNy0wNVQxMjozMDowMCIsIkVuZERhdGUiOiIyMDI0LTA3LTA1VDEzOjMwOjAwIiwiR210T2Zmc2V0IjoiMDE6MDA6MDAiLCJQYXRoIjoiMjAyNC8yMDI0LTA3LTA3X0JyaXRpc2hfR3JhbmRfUHJpeC8yMDI0LTA3LTA1X1ByYWN0aWNlXzEvIn0NCg==",
+  "created_at": "2026-08-20T11:23:08.066710+00:00",
+  "elapsed": 0.151783,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "517",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:09 GMT",
+    "ETag": "\"1d24bf0273d188881503525445ce573f\"",
+    "Last-Modified": "Fri, 05 Jul 2024 12:57:14 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 8cd07d75abbbff463ae2b26cfff3e0b0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "ilzGP6dPC-n-THSm9VXRWSwfxtfcq8DvuHTF4aAHtrBbJGRELvKWnw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/SessionInfo.jsonStream"
+}

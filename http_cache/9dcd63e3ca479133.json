@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTAxMywiTmFtZSI6Ikl0YWxpYW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiTW9uemEiLCJDb3VudHJ5Ijp7IktleSI6MTMsIkNvZGUiOiJJVEEiLCJOYW1lIjoiSXRhbHkifSwiQ2lyY3VpdCI6eyJLZXkiOjM5LCJTaG9ydE5hbWUiOiJNb256YSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NTUwMiwiVHlwZSI6IlF1YWxpZnlpbmciLCJOYW1lIjoiUXVhbGlmeWluZyIsIlN0YXJ0RGF0ZSI6IjIwMTktMDktMDdUMTU6MDA6MDAiLCJFbmREYXRlIjoiMjAxOS0wOS0wN1QxNjowMDowMCIsIkdtdE9mZnNldCI6IjAyOjAwOjAwIiwiUGF0aCI6IjIwMTkvMjAxOS0wOS0wOF9JdGFsaWFuX0dyYW5kX1ByaXgvMjAxOS0wOS0wN19RdWFsaWZ5aW5nLyJ9DQo=",
+  "created_at": "2026-08-20T11:22:10.290947+00:00",
+  "elapsed": 0.292777,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "425",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:11 GMT",
+    "ETag": "\"3288bb430a54ba993881322c0f23a04c\"",
+    "Last-Modified": "Sun, 16 Jun 2024 17:06:50 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 21be3420a436f8727342146a9b19af68.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "IzC5dAEeAMzmohzAtjfOmRzheW4wh8cRDB-sYTH_Pjp6xSiE7En0zw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2019/2019-09-08_Italian_Grand_Prix/2019-09-07_Qualifying/SessionInfo.jsonStream"
+}

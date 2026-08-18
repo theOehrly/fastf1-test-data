@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuNDUzeyJDdXJyZW50TGFwIjoxLCJUb3RhbExhcHMiOjE3fQ0KMDA6NDc6MDUuMjE3eyJDdXJyZW50TGFwIjoyfQ0KMDA6NDk6MTUuMjAweyJDdXJyZW50TGFwIjozfQ0KMDA6NTE6NDYuMDI2eyJDdXJyZW50TGFwIjo0fQ0KMDA6NTQ6MzcuODA2eyJDdXJyZW50TGFwIjo1fQ0KMDA6NTc6NDIuNjk0eyJDdXJyZW50TGFwIjo2fQ0KMDA6NTk6MjcuODk2eyJDdXJyZW50TGFwIjo3fQ0KMDE6MDE6MTIuNjkyeyJDdXJyZW50TGFwIjo4fQ0KMDE6MDI6NTcuNDcyeyJDdXJyZW50TGFwIjo5fQ0KMDE6MDQ6NDEuNDM5eyJDdXJyZW50TGFwIjoxMH0NCjAxOjA2OjI1LjIwNHsiQ3VycmVudExhcCI6MTF9DQowMTowODowOC44Mjd7IkN1cnJlbnRMYXAiOjEyfQ0KMDE6MDk6NTIuNzQ4eyJDdXJyZW50TGFwIjoxM30NCjAxOjExOjM2LjQ4MXsiQ3VycmVudExhcCI6MTR9DQowMToxMzoyMC4zMzl7IkN1cnJlbnRMYXAiOjE1fQ0KMDE6MTU6MDQuMjEzeyJDdXJyZW50TGFwIjoxNn0NCjAxOjE2OjQ4LjE5NnsiQ3VycmVudExhcCI6MTd9DQo=",
+  "created_at": "2026-08-20T11:22:48.239156+00:00",
+  "elapsed": 0.169125,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "536",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:49 GMT",
+    "ETag": "\"7bbbf31e3ac67ca545b2a8f29c2c960a\"",
+    "Last-Modified": "Wed, 19 Jun 2024 12:50:09 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 b25ea630a0bc5820a6901f77047718fe.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "6H4tW3JdWD68BQE2F3QbqCeno4TIlWfdYzVevtrv5C3pUMjeVv7lVQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/LapCount.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/LapCount.jsonStream"
+}

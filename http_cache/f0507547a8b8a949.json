@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTIwOCwiTmFtZSI6Ik1pYW1pIEdyYW5kIFByaXgiLCJPZmZpY2lhbE5hbWUiOiJGT1JNVUxBIDEgQ1JZUFRPLkNPTSBNSUFNSSBHUkFORCBQUklYIDIwMjMiLCJMb2NhdGlvbiI6Ik1pYW1pIiwiQ291bnRyeSI6eyJLZXkiOjE5LCJDb2RlIjoiVVNBIiwiTmFtZSI6IlVuaXRlZCBTdGF0ZXMifSwiQ2lyY3VpdCI6eyJLZXkiOjE1MSwiU2hvcnROYW1lIjoiTWlhbWkifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjkwNzgsIlR5cGUiOiJSYWNlIiwiTmFtZSI6IlJhY2UiLCJTdGFydERhdGUiOiIyMDIzLTA1LTA3VDE1OjMwOjAwIiwiRW5kRGF0ZSI6IjIwMjMtMDUtMDdUMTc6MzA6MDAiLCJHbXRPZmZzZXQiOiItMDQ6MDA6MDAiLCJQYXRoIjoiMjAyMy8yMDIzLTA1LTA3X01pYW1pX0dyYW5kX1ByaXgvMjAyMy0wNS0wN19SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:22:49.910248+00:00",
+  "elapsed": 0.155199,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "473",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:50 GMT",
+    "ETag": "\"1c9acf5f7313981db1b03c25800e3e10\"",
+    "Last-Modified": "Wed, 19 Jun 2024 13:45:15 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 512a3ed98fa59f06791d5919b48bcde0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "GUR-Dh6hYjN0pHS6ywUS-AXan_QGtoj7qr5U-PI9cIDh_abC9SGa0A==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-05-07_Miami_Grand_Prix/2023-05-07_Race/SessionInfo.jsonStream"
+}

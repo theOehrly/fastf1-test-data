@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA1MSwiTmFtZSI6IkJlbGdpYW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiU3BhLUZyYW5jb3JjaGFtcHMiLCJDb3VudHJ5Ijp7IktleSI6MTYsIkNvZGUiOiJCRUwiLCJOYW1lIjoiQmVsZ2l1bSJ9LCJDaXJjdWl0Ijp7IktleSI6NywiU2hvcnROYW1lIjoiU3BhLUZyYW5jb3JjaGFtcHMifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjU3OTIsIlR5cGUiOiJSYWNlIiwiTmFtZSI6IlJhY2UiLCJTdGFydERhdGUiOiIyMDIwLTA4LTMwVDE1OjEwOjAwIiwiRW5kRGF0ZSI6IjIwMjAtMDgtMzBUMTc6MTA6MDAiLCJHbXRPZmZzZXQiOiIwMjowMDowMCIsIlBhdGgiOiIyMDIwLzIwMjAtMDgtMzBfQmVsZ2lhbl9HcmFuZF9Qcml4LzIwMjAtMDgtMzBfUmFjZS8ifQ0K",
+  "created_at": "2026-08-20T11:23:19.262581+00:00",
+  "elapsed": 0.155296,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "432",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:20 GMT",
+    "ETag": "\"2f3d559af1314cdd775cc6c842c5b510\"",
+    "Last-Modified": "Mon, 17 Jun 2024 11:57:14 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 03f0b5e1388e49b279dc44f8ff1caa78.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "0ky67XJA9Xp7S0gDQSjB5XREVme4YenrskcNsqDAjLyaDWPcxwwJww==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/SessionInfo.jsonStream"
+}

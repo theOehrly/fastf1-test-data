@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDQuNDYweyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxNDoyNC4yMDB7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6MjE6MDIuNTMxeyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAwOjI3OjIyLjk3NXsiU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDA6Mjg6MjQuMjAzeyJTdGF0dXMiOiJTdGFydGVkIn0NCjAwOjM5OjQ2LjE5OHsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDA6NDU6MzAuNTk0eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDo0NzoyNC4xOTl7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6NTc6MjYuODM5eyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAxOjUxOjI4LjU2NHsiU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDE6NTQ6MjQuMTk3eyJTdGF0dXMiOiJTdGFydGVkIn0NCjAxOjU5OjIyLjIwMHsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDI6MDU6MjcuMTg3eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMjowNzoyNC4yMDV7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDI6MTk6MjQuMjE4eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMjoyMjo1NS4xNjN7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjozMjo1My44MDZ7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:23:57.527208+00:00",
+  "elapsed": 0.234823,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e107637e1719b3-FRA",
+    "Connection": "close",
+    "Content-Length": "588",
+    "Date": "Thu, 20 Aug 2026 11:23:57 GMT",
+    "ETag": "\"a390d9f57762758dbf91fde27d25c4c2\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:49:10 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=eg0oWWOGMAh%2FFPxliGqvZtmOYcWiR8cUaOPzBR5KYUAihhwVrIZ0INlFfadAu5ksIlev91WLXO%2FDjJ2pu3GBjP2Yd8IqZJnPxhaWLQSnHahsIt2aNak2jR9cSVaaZCmgOf60MdMqnmKGyJpaj5dryKRvNS89ME8%2BMUpe\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/SessionStatus.jsonStream"
+}

@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDcuNzI2eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMToxMDo0NS41MjN7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6NDc6MTguMzI1eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMTo1Mzo0Ni4xNTR7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMjoxMjo0NC4yMDB7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:24:50.000486+00:00",
+  "elapsed": 0.161047,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:50 GMT",
+    "ETag": "\"36009f762d8e5bc6ae3f4d921035a4b1\"",
+    "Last-Modified": "Sat, 03 May 2025 17:31:13 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 09f78fab17e561a78ea60bb6223c4962.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "NioFynw63X0s1YPOSXkUTCEUDlF0mNGc-4ds_-wc8Q3aShhtTIUKFA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-05-04_Miami_Grand_Prix/2025-05-03_Sprint/SessionStatus.jsonStream"
+}

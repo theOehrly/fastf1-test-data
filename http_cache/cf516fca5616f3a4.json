@@ -1,0 +1,42 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA3MiwiTmFtZSI6IkJyaXRpc2ggR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiU2lsdmVyc3RvbmUiLCJDb3VudHJ5Ijp7IktleSI6MiwiQ29kZSI6IkdCUiIsIk5hbWUiOiJHcmVhdCBCcml0YWluIn0sIkNpcmN1aXQiOnsiS2V5IjoyLCJTaG9ydE5hbWUiOiJTaWx2ZXJzdG9uZSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NjI1NCwiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMjEtMDctMThUMTU6MDA6MDAiLCJFbmREYXRlIjoiMjAyMS0wNy0xOFQxNzowMDowMCIsIkdtdE9mZnNldCI6IjAxOjAwOjAwIiwiUGF0aCI6IjIwMjEvMjAyMS0wNy0xOF9Ccml0aXNoX0dyYW5kX1ByaXgvMjAyMS0wNy0xOF9SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:38.547491+00:00",
+  "elapsed": 0.064187,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "2286",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "425",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 10:45:33 GMT",
+    "ETag": "\"2a855f00749162e92a2d769e815a34ab\"",
+    "Last-Modified": "Tue, 18 Jun 2024 00:04:32 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 de8b46af7190cc021fd8b12be6996a2e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "cGUEV1DkDr3TQzwTTv9R3OFBto15OJXi0CQ123jIs7Ugl7wBPzoF1g==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Hit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-07-18_British_Grand_Prix/2021-07-18_Race/SessionInfo.jsonStream"
+}

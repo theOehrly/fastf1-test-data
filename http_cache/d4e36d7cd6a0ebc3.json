@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDYuNTc4eyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDo0NToxNi4zMjh7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDE6MTg6MzQuMjI2eyJTdGF0dXMiOiJGaW5pc2hlZCJ9DQowMToyMTozNS4xNzd7IlN0YXR1cyI6IkZpbmFsaXNlZCJ9DQowMToyMTozNi4xOTN7IlN0YXR1cyI6IkVuZHMifQ0K",
+  "created_at": "2026-08-20T11:22:48.008193+00:00",
+  "elapsed": 0.187626,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "174",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:48 GMT",
+    "ETag": "\"d059a356cbe3490d9c11bd47c5a304a0\"",
+    "Last-Modified": "Wed, 19 Jun 2024 12:55:30 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 db2b666889c24cb2eb0398e459e4aa92.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "xQeKjYUHJCVO_gPairJcjh68oelghBN7gmsWAM1O44bcuAFL3EzxhQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-04-30_Azerbaijan_Grand_Prix/2023-04-29_Sprint/SessionStatus.jsonStream"
+}

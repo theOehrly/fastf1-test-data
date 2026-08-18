@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjQ0OjQzLjAxOHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6NDU6MDEuODQweyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjAwOjM1LjI1NXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MDE6MzUuNDgyeyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDE6MDg6NDMuNzU3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjEwOjIxLjk4N3siU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MTA6MjYuNzczeyJTdGF0dXMiOiI0IiwiTWVzc2FnZSI6IlNDRGVwbG95ZWQifQ0KMDE6MTM6MDIuMzA4eyJTdGF0dXMiOiI1IiwiTWVzc2FnZSI6IlJlZCJ9DQowMTozNDowMS4wNzV7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0K",
+  "created_at": "2026-08-20T11:22:55.854279+00:00",
+  "elapsed": 0.165215,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "486",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:56 GMT",
+    "ETag": "\"bd6c67119cc4b948cab01c0fc31f6261\"",
+    "Last-Modified": "Mon, 17 Jun 2024 12:28:02 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 03f0b5e1388e49b279dc44f8ff1caa78.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "77e5vwee0ExdH7b-KSdzsO2J3K6XUMY2zCktcsR23VokEOH8eDKMWQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-09-06_Italian_Grand_Prix/2020-09-06_Race/TrackStatus.jsonStream"
+}

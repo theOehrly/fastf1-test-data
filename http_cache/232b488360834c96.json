@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuNDU1eyJDdXJyZW50TGFwIjoxLCJUb3RhbExhcHMiOjQ0fQ0KMDA6MzU6MzQuMjgxeyJDdXJyZW50TGFwIjoyfQ0KMDA6Mzc6MjQuNTUweyJDdXJyZW50TGFwIjozfQ0KMDA6Mzk6MTQuNjA2eyJDdXJyZW50TGFwIjo0fQ0KMDA6NDE6MDQuODk5eyJDdXJyZW50TGFwIjo1fQ0KMDA6NDI6NTQuMzY5eyJDdXJyZW50TGFwIjo2fQ0KMDA6NDQ6NDQuNDc3eyJDdXJyZW50TGFwIjo3fQ0KMDA6NDY6MzQuMzgweyJDdXJyZW50TGFwIjo4fQ0KMDA6NDg6MjQuMzg3eyJDdXJyZW50TGFwIjo5fQ0KMDA6NTA6MTQuMDU1eyJDdXJyZW50TGFwIjoxMH0NCjAwOjUyOjAzLjkzOHsiQ3VycmVudExhcCI6MTF9DQowMDo1NDozOC4wNTF7IkN1cnJlbnRMYXAiOjEyfQ0KMDA6NTc6NDUuOTkyeyJDdXJyZW50TGFwIjoxM30NCjAxOjAwOjQ2LjA0OHsiQ3VycmVudExhcCI6MTR9DQowMTowMzozMS43NDZ7IkN1cnJlbnRMYXAiOjE1fQ0KMDE6MDU6MjAuMDQweyJDdXJyZW50TGFwIjoxNn0NCjAxOjA3OjA4LjI5NnsiQ3VycmVudExhcCI6MTd9DQowMTowODo1Ni40Nzd7IkN1cnJlbnRMYXAiOjE4fQ0KMDE6MTA6NDQuOTY3eyJDdXJyZW50TGFwIjoxOX0NCjAxOjEyOjMzLjI3MHsiQ3VycmVudExhcCI6MjB9DQowMToxNDoyMS43NzZ7IkN1cnJlbnRMYXAiOjIxfQ0KMDE6MTY6MTAuMzg0eyJDdXJyZW50TGFwIjoyMn0NCjAxOjE3OjU5LjE1NXsiQ3VycmVudExhcCI6MjN9DQowMToxOTo0Ny42OTF7IkN1cnJlbnRMYXAiOjI0fQ0KMDE6MjE6MzUuODEyeyJDdXJyZW50TGFwIjoyNX0NCjAxOjIzOjI0LjEyNnsiQ3VycmVudExhcCI6MjZ9DQowMToyNToxMi4wMTJ7IkN1cnJlbnRMYXAiOjI3fQ0KMDE6Mjc6MDAuMjYyeyJDdXJyZW50TGFwIjoyOH0NCjAxOjI4OjQ4LjA0OHsiQ3VycmVudExhcCI6Mjl9DQowMTozMDozNS45ODR7IkN1cnJlbnRMYXAiOjMwfQ0KMDE6MzI6MjQuMTgyeyJDdXJyZW50TGFwIjozMX0NCjAxOjM0OjEzLjAxNHsiQ3VycmVudExhcCI6MzJ9DQowMTozNjowMS41MjZ7IkN1cnJlbnRMYXAiOjMzfQ0KMDE6Mzc6NDkuNTEzeyJDdXJyZW50TGFwIjozNH0NCjAxOjM5OjM3Ljk1MXsiQ3VycmVudExhcCI6MzV9DQowMTo0MToyNi4wNjF7IkN1cnJlbnRMYXAiOjM2fQ0KMDE6NDM6MTQuNDM0eyJDdXJyZW50TGFwIjozN30NCjAxOjQ1OjAzLjY1OHsiQ3VycmVudExhcCI6Mzh9DQowMTo0Njo1Mi41MjV7IkN1cnJlbnRMYXAiOjM5fQ0KMDE6NDg6NDEuMDM0eyJDdXJyZW50TGFwIjo0MH0NCjAxOjUwOjI5LjkyNHsiQ3VycmVudExhcCI6NDF9DQowMTo1MjoxOS43ODh7IkN1cnJlbnRMYXAiOjQyfQ0KMDE6NTQ6MTEuMTg5eyJDdXJyZW50TGFwIjo0M30NCjAxOjU2OjAwLjc5MXsiQ3VycmVudExhcCI6NDR9DQo=",
+  "created_at": "2026-08-20T11:23:20.470327+00:00",
+  "elapsed": 0.185578,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1373",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:21 GMT",
+    "ETag": "\"6243d24566292756ced474e337c688e3\"",
+    "Last-Modified": "Mon, 17 Jun 2024 11:57:12 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 577c189d14f20f4f61c76d2711499f1c.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "CGd3rD8R4vqfnuQqg4lX9CXj_HSQ6GHLmZ9B-ZM9kdwkYEVi5KbUBg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/LapCount.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-08-30_Belgian_Grand_Prix/2020-08-30_Race/LapCount.jsonStream"
+}

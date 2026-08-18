@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTA3NiwiTmFtZSI6Ikl0YWxpYW4gR3JhbmQgUHJpeCIsIkxvY2F0aW9uIjoiTW9uemEiLCJDb3VudHJ5Ijp7IktleSI6MTMsIkNvZGUiOiJJVEEiLCJOYW1lIjoiSXRhbHkifSwiQ2lyY3VpdCI6eyJLZXkiOjM5LCJTaG9ydE5hbWUiOiJNb256YSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NjI3MSwiVHlwZSI6IlByYWN0aWNlIiwiTnVtYmVyIjoyLCJOYW1lIjoiUHJhY3RpY2UgMiIsIlN0YXJ0RGF0ZSI6IjIwMjEtMDktMTFUMTI6MDA6MDAiLCJFbmREYXRlIjoiMjAyMS0wOS0xMVQxMzowMDowMCIsIkdtdE9mZnNldCI6IjAyOjAwOjAwIiwiUGF0aCI6IjIwMjEvMjAyMS0wOS0xMl9JdGFsaWFuX0dyYW5kX1ByaXgvMjAyMS0wOS0xMV9QcmFjdGljZV8yLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:35.455303+00:00",
+  "elapsed": 0.175974,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "434",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:36 GMT",
+    "ETag": "\"4f187e6d965bc78e4db0a1e8fc44049e\"",
+    "Last-Modified": "Tue, 18 Jun 2024 02:06:49 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 25a522e44c88aba621285693935f1eaa.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "A_z6Vq2PVfyYJG-0jgb1lsp8xheaJ9L5vW2UffYkAFm8xq5WMcisOw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2021/2021-09-12_Italian_Grand_Prix/2021-09-11_Practice_2/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2021/2021-09-12_Italian_Grand_Prix/2021-09-11_Practice_2/SessionInfo.jsonStream"
+}

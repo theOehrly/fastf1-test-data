@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTIzMywiTmFtZSI6IkNoaW5lc2UgR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBMRU5PVk8gQ0hJTkVTRSBHUkFORCBQUklYIDIwMjQiLCJMb2NhdGlvbiI6IlNoYW5naGFpIiwiQ291bnRyeSI6eyJLZXkiOjUzLCJDb2RlIjoiQ0hOIiwiTmFtZSI6IkNoaW5hIn0sIkNpcmN1aXQiOnsiS2V5Ijo0OSwiU2hvcnROYW1lIjoiU2hhbmdoYWkifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjk2NjgsIlR5cGUiOiJRdWFsaWZ5aW5nIiwiTmFtZSI6IlNwcmludCBRdWFsaWZ5aW5nIiwiU3RhcnREYXRlIjoiMjAyNC0wNC0xOVQxNTozMDowMCIsIkVuZERhdGUiOiIyMDI0LTA0LTE5VDE2OjE0OjAwIiwiR210T2Zmc2V0IjoiMDg6MDA6MDAiLCJQYXRoIjoiMjAyNC8yMDI0LTA0LTIxX0NoaW5lc2VfR3JhbmRfUHJpeC8yMDI0LTA0LTE5X1NwcmludF9RdWFsaWZ5aW5nLyJ9DQo=",
+  "created_at": "2026-08-20T11:23:05.956643+00:00",
+  "elapsed": 0.151313,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "503",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:06 GMT",
+    "ETag": "\"2072c1c5f27c4eea1923eb483a7a93d3\"",
+    "Last-Modified": "Tue, 18 Jun 2024 14:21:27 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 6da146f012af036eaa9002470b7d7c54.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "dg6PCcBOg6JorOW0aqhFCo8zBdkc0PdkvZgLq8LHMflmq7Zo5KOFNw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-04-21_Chinese_Grand_Prix/2024-04-19_Sprint_Qualifying/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-04-21_Chinese_Grand_Prix/2024-04-19_Sprint_Qualifying/SessionInfo.jsonStream"
+}

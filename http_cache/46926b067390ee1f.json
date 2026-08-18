@@ -1,0 +1,43 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6OTgyLCJOYW1lIjoiQXplcmJhaWphbiBHcmFuZCBQcml4IiwiTG9jYXRpb24iOiJCYWt1IiwiQ291bnRyeSI6eyJLZXkiOjMwLCJDb2RlIjoiQVpFIiwiTmFtZSI6IkF6ZXJiYWlqYW4ifSwiQ2lyY3VpdCI6eyJLZXkiOjE0NCwiU2hvcnROYW1lIjoiQmFrdSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6NTA5MCwiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMTgtMDQtMjlUMTY6MTA6MDAiLCJFbmREYXRlIjoiMjAxOC0wNC0yOVQxODoxMDowMCIsIkdtdE9mZnNldCI6IjA0OjAwOjAwIiwiUGF0aCI6IjIwMTgvMjAxOC0wNC0yOV9BemVyYmFpamFuX0dyYW5kX1ByaXgvMjAxOC0wNC0yOV9SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:24:53.486028+00:00",
+  "elapsed": 0.198956,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Language": "en",
+    "Content-Length": "416",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:54 GMT",
+    "ETag": "\"722219f9b470b831186434ea431c3022\"",
+    "Last-Modified": "Fri, 14 Jun 2024 13:58:39 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 db2b666889c24cb2eb0398e459e4aa92.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "xgdmnQv_r4KESn3bLb-U6D839Ven2yAy_6LUP2Bb9JUhH2Q7o6k-Gg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-meta-goog-reserved-file-mtime": "1534978338",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2018/2018-04-29_Azerbaijan_Grand_Prix/2018-04-29_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2018/2018-04-29_Azerbaijan_Grand_Prix/2018-04-29_Race/SessionInfo.jsonStream"
+}

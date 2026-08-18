@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDU6MjguNjM3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAwOjIxOjU5LjA0MHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDA6MjI6MDMuMTY1eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjAzOjA3LjY1MXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MDM6MDguMTUxeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjA0OjE1Ljk3OHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MDQ6NTEuMjQzeyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjA4OjU5LjgzMHsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDI6MDk6MTguMjk4eyJTdGF0dXMiOiI2IiwiTWVzc2FnZSI6IlZTQ0RlcGxveWVkIn0NCjAyOjEwOjUzLjg3NXsiU3RhdHVzIjoiNyIsIk1lc3NhZ2UiOiJWU0NFbmRpbmcifQ0KMDI6MTE6MDYuNDM3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCg==",
+  "created_at": "2026-08-20T11:22:38.673333+00:00",
+  "elapsed": 0.17339,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "538",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:22:39 GMT",
+    "ETag": "\"e185550bb2f2834b656f605939f16998\"",
+    "Last-Modified": "Wed, 19 Jun 2024 11:33:22 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 b2825f5e779aaa7a75e20fcfeee23920.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Tl4nAHLy3D8kRl6QiBNMJMbo4AWJ1E1H74K2yshvPmGmHB6OgbtEQg==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2023/2023-03-05_Bahrain_Grand_Prix/2023-03-05_Race/TrackStatus.jsonStream"
+}

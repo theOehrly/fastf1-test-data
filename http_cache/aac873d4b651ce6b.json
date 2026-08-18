@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDUuNjIweyJDdXJyZW50TGFwIjoxLCJUb3RhbExhcHMiOjUwfQ0KMDE6MDQ6MDMuNzcyeyJDdXJyZW50TGFwIjoyfQ0KMDE6MDU6MzguNTM1eyJDdXJyZW50TGFwIjozfQ0KMDE6MDc6MTMuMTExeyJDdXJyZW50TGFwIjo0fQ0KMDE6MDg6NDcuNTQ5eyJDdXJyZW50TGFwIjo1fQ0KMDE6MTA6MjIuMDI0eyJDdXJyZW50TGFwIjo2fQ0KMDE6MTE6NTYuNTA5eyJDdXJyZW50TGFwIjo3fQ0KMDE6MTM6MzEuMzU3eyJDdXJyZW50TGFwIjo4fQ0KMDE6MTU6MDUuOTY2eyJDdXJyZW50TGFwIjo5fQ0KMDE6MTY6NDAuNzc0eyJDdXJyZW50TGFwIjoxMH0NCjAxOjE4OjE1LjYxNXsiQ3VycmVudExhcCI6MTF9DQowMToxOTo1MC4xNjJ7IkN1cnJlbnRMYXAiOjEyfQ0KMDE6MjE6MjQuODUyeyJDdXJyZW50TGFwIjoxM30NCjAxOjIzOjAwLjA4OXsiQ3VycmVudExhcCI6MTR9DQowMToyNDozNS4zNzR7IkN1cnJlbnRMYXAiOjE1fQ0KMDE6MjY6MTIuOTU2eyJDdXJyZW50TGFwIjoxNn0NCjAxOjI3OjU2LjY2OXsiQ3VycmVudExhcCI6MTd9DQowMTozMTowMS4zOTZ7IkN1cnJlbnRMYXAiOjE4fQ0KMDE6MzM6NDEuNDU0eyJDdXJyZW50TGFwIjoxOX0NCjAxOjM2OjEwLjUwOHsiQ3VycmVudExhcCI6MjB9DQowMTozODo1NS4xMjR7IkN1cnJlbnRMYXAiOjIxfQ0KMDE6NDA6MjkuNzUyeyJDdXJyZW50TGFwIjoyMn0NCjAxOjQyOjAzLjg0M3siQ3VycmVudExhcCI6MjN9DQowMTo0MzozNy4yNjN7IkN1cnJlbnRMYXAiOjI0fQ0KMDE6NDU6MTAuNzg0eyJDdXJyZW50TGFwIjoyNX0NCjAxOjQ2OjQ0LjEzM3siQ3VycmVudExhcCI6MjZ9DQowMTo0ODoxNy4zNTR7IkN1cnJlbnRMYXAiOjI3fQ0KMDE6NDk6NTAuNTAzeyJDdXJyZW50TGFwIjoyOH0NCjAxOjUxOjIzLjIwMXsiQ3VycmVudExhcCI6Mjl9DQowMTo1Mjo1Ni4xMzF7IkN1cnJlbnRMYXAiOjMwfQ0KMDE6NTQ6MjguODg0eyJDdXJyZW50TGFwIjozMX0NCjAxOjU2OjAyLjAxNHsiQ3VycmVudExhcCI6MzJ9DQowMTo1NzozNC42NzV7IkN1cnJlbnRMYXAiOjMzfQ0KMDE6NTk6MDcuNTIweyJDdXJyZW50TGFwIjozNH0NCjAyOjAwOjQwLjIyN3siQ3VycmVudExhcCI6MzV9DQowMjowMjoxMi43MDh7IkN1cnJlbnRMYXAiOjM2fQ0KMDI6MDM6NDUuMzM0eyJDdXJyZW50TGFwIjozN30NCjAyOjA1OjE4LjQzMnsiQ3VycmVudExhcCI6Mzh9DQowMjowNzowNS42MjV7IkN1cnJlbnRMYXAiOjM5fQ0KMDI6MDk6MTIuMDQzeyJDdXJyZW50TGFwIjo0MH0NCjAyOjExOjE4LjUzNXsiQ3VycmVudExhcCI6NDF9DQowMjoxMjo1NC42NTJ7IkN1cnJlbnRMYXAiOjQyfQ0KMDI6MTQ6MjcuOTM1eyJDdXJyZW50TGFwIjo0M30NCjAyOjE2OjAxLjc2NXsiQ3VycmVudExhcCI6NDR9DQowMjoxNzozMy45NTR7IkN1cnJlbnRMYXAiOjQ1fQ0KMDI6MTk6MDYuMTY4eyJDdXJyZW50TGFwIjo0Nn0NCjAyOjIwOjM5LjY1NHsiQ3VycmVudExhcCI6NDd9DQowMjoyMjoxMS4zODZ7IkN1cnJlbnRMYXAiOjQ4fQ0KMDI6MjM6NDMuMjI0eyJDdXJyZW50TGFwIjo0OX0NCjAyOjI1OjE1LjMxM3siQ3VycmVudExhcCI6NTB9DQo=",
+  "created_at": "2026-08-20T11:23:44.003517+00:00",
+  "elapsed": 0.186722,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e1070f38cddcac-FRA",
+    "Connection": "close",
+    "Content-Length": "1559",
+    "Date": "Thu, 20 Aug 2026 11:23:43 GMT",
+    "ETag": "\"16f8fff962be4c1f2aaa47c4b770f180\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:50:10 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=XKJSJO%2Fh4YAFvo0JVCEVtXZmLKSZSJaP73u7rS22m3COQIqmlsVphbAPz8yreQ7pftnFhlXJwYFTnkspV2A6Drad3Q9%2FcUvv7xdMVP0lSVw%2FS8kTE22Ps%2Be0ZxCBaZY48jcpjX%2B0NM6FEOO2fhD8PWbYoHuNRCEyfbJV\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/LapCount.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-27_Race/LapCount.jsonStream"
+}

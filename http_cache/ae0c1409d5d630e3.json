@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MTM6MzYuNjY3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAxOjI1OjQ5Ljg5NXsiU3RhdHVzIjoiMiIsIk1lc3NhZ2UiOiJZZWxsb3cifQ0KMDE6MjU6NTguNTU3eyJTdGF0dXMiOiIxIiwiTWVzc2FnZSI6IkFsbENsZWFyIn0NCjAyOjE3OjE5LjgyOHsiU3RhdHVzIjoiNiIsIk1lc3NhZ2UiOiJWU0NEZXBsb3llZCJ9DQowMjoxNzozOS43MjZ7IlN0YXR1cyI6IjQiLCJNZXNzYWdlIjoiU0NEZXBsb3llZCJ9DQowMjoyODo1NC4xNTd7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDI6Mzg6NTMuMTk5eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQo=",
+  "created_at": "2026-08-20T11:24:02.365779+00:00",
+  "elapsed": 0.210877,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e10781caa09748-FRA",
+    "Connection": "close",
+    "Content-Length": "347",
+    "Date": "Thu, 20 Aug 2026 11:24:02 GMT",
+    "ETag": "\"f58bc0a27463d53364a330d24a2e5242\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:51:53 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tpuhA6aDz%2F2NYtgTDbrAXFo7V7ZBmX9LCeHTGWQkCfUWE3IxmJ52i7SjoIU3g3Pfkwf2yKo9R%2B3VZFNsd2pps52YPtK85lLINMPCg%2BX72Yz4RdK%2BOcD2Hi%2BRmVWzw7JPuLZzdXogMmdHPNwaLk8xELkyupzNGD8OGCjw\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-20_Bahrain_Grand_Prix/2022-03-20_Race/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-20_Bahrain_Grand_Prix/2022-03-20_Race/TrackStatus.jsonStream"
+}

@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MTAuNTYweyJTdGF0dXMiOiJJbmFjdGl2ZSJ9DQowMDoxMzoyNC4zOTl7IlN0YXR1cyI6IlN0YXJ0ZWQifQ0KMDA6MjI6MTMuNzI3eyJTdGF0dXMiOiJBYm9ydGVkIn0NCjAwOjI4OjQ0LjI3MnsiU3RhdHVzIjoiSW5hY3RpdmUifQ0KMDA6Mjk6MjMuNDY4eyJTdGF0dXMiOiJTdGFydGVkIn0NCjAxOjEzOjIzLjQ5MXsiU3RhdHVzIjoiRmluaXNoZWQifQ0KMDE6MjA6MzEuMTMweyJTdGF0dXMiOiJGaW5hbGlzZWQifQ0KMDE6MjA6MzEuMTMweyJTdGF0dXMiOiJFbmRzIn0NCg==",
+  "created_at": "2026-08-20T11:23:08.850705+00:00",
+  "elapsed": 0.185794,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "277",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:09 GMT",
+    "ETag": "\"950b5e874905ee8b8c81134e9c07be1e\"",
+    "Last-Modified": "Fri, 05 Jul 2024 12:57:14 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 455035b7b3ab5f564b775e2968249d3e.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "CW9X8q8q2O1ImttygrtKqxNMtK4BXlYKlGbY4DdDod2iQrSkPP_vLw==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/SessionStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-07-07_British_Grand_Prix/2024-07-05_Practice_1/SessionStatus.jsonStream"
+}

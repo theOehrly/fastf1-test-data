@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTI1NCwiTmFtZSI6IkF1c3RyYWxpYW4gR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBMT1VJUyBWVUlUVE9OIEFVU1RSQUxJQU4gR1JBTkQgUFJJWCAyMDI1IiwiTG9jYXRpb24iOiJNZWxib3VybmUiLCJOdW1iZXIiOjEsIkNvdW50cnkiOnsiS2V5Ijo1LCJDb2RlIjoiQVVTIiwiTmFtZSI6IkF1c3RyYWxpYSJ9LCJDaXJjdWl0Ijp7IktleSI6MTAsIlNob3J0TmFtZSI6Ik1lbGJvdXJuZSJ9fSwiQXJjaGl2ZVN0YXR1cyI6eyJTdGF0dXMiOiJHZW5lcmF0aW5nIn0sIktleSI6OTY5MywiVHlwZSI6IlJhY2UiLCJOYW1lIjoiUmFjZSIsIlN0YXJ0RGF0ZSI6IjIwMjUtMDMtMTZUMTU6MDA6MDAiLCJFbmREYXRlIjoiMjAyNS0wMy0xNlQxNzowMDowMCIsIkdtdE9mZnNldCI6IjExOjAwOjAwIiwiUGF0aCI6IjIwMjUvMjAyNS0wMy0xNl9BdXN0cmFsaWFuX0dyYW5kX1ByaXgvMjAyNS0wMy0xNl9SYWNlLyJ9DQo=",
+  "created_at": "2026-08-20T11:24:44.028587+00:00",
+  "elapsed": 0.16033,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "503",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:24:44 GMT",
+    "ETag": "\"9e42dabab89db56cf12bd2b62bdcafe7\"",
+    "Last-Modified": "Sun, 16 Mar 2025 06:24:44 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 03f0b5e1388e49b279dc44f8ff1caa78.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "Wt6cBNkXqNdAJLdfkhklOoJtHhVItudMypFS7Jjiu04fiWHRlN8ZCQ==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2025/2025-03-16_Australian_Grand_Prix/2025-03-16_Race/SessionInfo.jsonStream"
+}

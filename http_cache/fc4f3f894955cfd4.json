@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDE6MzguMDQweyJNZXNzYWdlcyI6W3siVXRjIjoiMjAyMC0wNy0xN1QxMjo0NjozOSIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiV0VUIFRSQUNLIn1dfQ0KMDA6MDE6NTYuNjYxeyJNZXNzYWdlcyI6eyIxIjp7IlV0YyI6IjIwMjAtMDctMTdUMTI6NDY6NTgiLCJDYXRlZ29yeSI6IkRycyIsIlN0YXR1cyI6IkRJU0FCTEVEIiwiTWVzc2FnZSI6IkRSUyBESVNBQkxFRCJ9fX0NCjAwOjAyOjAzLjc3MHsiTWVzc2FnZXMiOnsiMiI6eyJVdGMiOiIyMDIwLTA3LTE3VDEyOjQ3OjA1IiwiQ2F0ZWdvcnkiOiJPdGhlciIsIk1lc3NhZ2UiOiJMT1cgR1JJUCBDT05ESVRJT05TIn19fQ0KMDA6MDg6MDQuNjAxeyJNZXNzYWdlcyI6eyIzIjp7IlV0YyI6IjIwMjAtMDctMTdUMTI6NTM6MDYiLCJDYXRlZ29yeSI6Ik90aGVyIiwiTWVzc2FnZSI6IlJJU0sgT0YgUkFJTiBGT1IgRjEgU0VDT05EIFBSQUNUSUNFIFNFU1NJT04gSVMgMTAwJSJ9fX0NCjAwOjE0OjU5LjE3NXsiTWVzc2FnZXMiOnsiNCI6eyJVdGMiOiIyMDIwLTA3LTE3VDEzOjAwOjAwIiwiQ2F0ZWdvcnkiOiJGbGFnIiwiRmxhZyI6IkdSRUVOIiwiU2NvcGUiOiJUcmFjayIsIk1lc3NhZ2UiOiJHUkVFTiBMSUdIVCAtIFBJVCBFWElUIE9QRU4ifX19DQowMDo0MDoxNi45ODF7Ik1lc3NhZ2VzIjp7IjUiOnsiVXRjIjoiMjAyMC0wNy0xN1QxMzoyNToxOCIsIkNhdGVnb3J5IjoiQ2FyRXZlbnQiLCJSYWNpbmdOdW1iZXIiOiIxMSIsIk1lc3NhZ2UiOiJDQVIgMTEgKFBFUikgTUlTU0VEIFRIRSBBUEVYIE9GIFRVUk4gNyJ9fX0NCjAxOjExOjIyLjMzM3siTWVzc2FnZXMiOnsiNiI6eyJVdGMiOiIyMDIwLTA3LTE3VDEzOjU2OjIzIiwiQ2F0ZWdvcnkiOiJDYXJFdmVudCIsIlJhY2luZ051bWJlciI6IjI2IiwiTWVzc2FnZSI6IkNBUiAyNiAoS1ZZKSBNSVNTRUQgVEhFIEFQRVggT0YgVFVSTiA3In19fQ0KMDE6MTM6MTkuNzg1eyJNZXNzYWdlcyI6eyI3Ijp7IlV0YyI6IjIwMjAtMDctMTdUMTM6NTg6MjEiLCJDYXRlZ29yeSI6IkNhckV2ZW50IiwiUmFjaW5nTnVtYmVyIjoiNyIsIk1lc3NhZ2UiOiJDQVIgNyAoUkFJKSBPRkYgVFJBQ0sgQU5EIENPTlRJTlVFRCBBVCBUVVJOIDExIn19fQ0KMDE6MTM6NDAuNzU4eyJNZXNzYWdlcyI6eyI4Ijp7IlV0YyI6IjIwMjAtMDctMTdUMTM6NTg6NDIiLCJDYXRlZ29yeSI6Ik90aGVyIiwiTWVzc2FnZSI6IkNBUiA3IChSQUkpIFRJTUUgMTo0OS4zNTUgREVMRVRFRCAtIFRSQUNLIExJTUlUUyBBVCBUVVJOIDExIn19fQ0KMDE6MzM6MzEuODI4eyJNZXNzYWdlcyI6eyI5Ijp7IlV0YyI6IjIwMjAtMDctMTdUMTQ6MTg6MzMiLCJDYXRlZ29yeSI6Ik90aGVyIiwiTWVzc2FnZSI6IkNBUiA1IChWRVQpIFRJTUUgMTo0NC42MzIgREVMRVRFRCAtIFRSQUNLIExJTUlUUyBBVCBUVVJOIDExIn19fQ0KMDE6NDQ6NTkuMTc2eyJNZXNzYWdlcyI6eyIxMCI6eyJVdGMiOiIyMDIwLTA3LTE3VDE0OjMwOjAwIiwiQ2F0ZWdvcnkiOiJGbGFnIiwiRmxhZyI6IkNIRVFVRVJFRCIsIlNjb3BlIjoiVHJhY2siLCJNZXNzYWdlIjoiQ0hFUVVFUkVEIEZMQUcifX19DQowMTo1ODoxMC45MDl7Ik1lc3NhZ2VzIjp7IjExIjp7IlV0YyI6IjIwMjAtMDctMTdUMTQ6NDM6MTIiLCJDYXRlZ29yeSI6Ik90aGVyIiwiTWVzc2FnZSI6IldFVCBUUkFDSyJ9fX0NCjAyOjAwOjAxLjc2NnsiTWVzc2FnZXMiOnsiMTIiOnsiVXRjIjoiMjAyMC0wNy0xN1QxNDo0NTowMyIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiUklTSyBPRiBSQUlOIEZPUiBGMiBRVUFMSUZZSU5HIFNFU1NJT04gSVMgMTAwJSJ9fX0NCg==",
+  "created_at": "2026-08-20T11:23:35.220241+00:00",
+  "elapsed": 0.155796,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1801",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:36 GMT",
+    "ETag": "\"e285ea05d8f8c22da0f34cdd562a369a\"",
+    "Last-Modified": "Mon, 17 Jun 2024 09:11:38 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 3d60650fd0c339e18e816ce29f9a0da0.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "pN7B8EfnFuVfmMZu0sqrne1pOvasI-7MG3zR2rY2M3xWB8ldY-D-_w==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "RefreshHit from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/RaceControlMessages.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2020/2020-07-19_Hungarian_Grand_Prix/2020-07-17_Practice_2/RaceControlMessages.jsonStream"
+}

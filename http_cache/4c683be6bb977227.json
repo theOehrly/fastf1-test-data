@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJNZWV0aW5nIjp7IktleSI6MTExNCwiTmFtZSI6IkJyaXRpc2ggR3JhbmQgUHJpeCIsIk9mZmljaWFsTmFtZSI6IkZPUk1VTEEgMSBMRU5PVk8gQlJJVElTSCBHUkFORCBQUklYIDIwMjIiLCJMb2NhdGlvbiI6IlNpbHZlcnN0b25lIiwiQ291bnRyeSI6eyJLZXkiOjIsIkNvZGUiOiJHQlIiLCJOYW1lIjoiR3JlYXQgQnJpdGFpbiJ9LCJDaXJjdWl0Ijp7IktleSI6MiwiU2hvcnROYW1lIjoiU2lsdmVyc3RvbmUifX0sIkFyY2hpdmVTdGF0dXMiOnsiU3RhdHVzIjoiR2VuZXJhdGluZyJ9LCJLZXkiOjcxMTMsIlR5cGUiOiJQcmFjdGljZSIsIk51bWJlciI6MSwiTmFtZSI6IlByYWN0aWNlIDEiLCJTdGFydERhdGUiOiIyMDIyLTA3LTAxVDEzOjAwOjAwIiwiRW5kRGF0ZSI6IjIwMjItMDctMDFUMTQ6MDA6MDAiLCJHbXRPZmZzZXQiOiIwMTowMDowMCIsIlBhdGgiOiIyMDIyLzIwMjItMDctMDNfQnJpdGlzaF9HcmFuZF9Qcml4LzIwMjItMDctMDFfUHJhY3RpY2VfMS8ifQ0K",
+  "created_at": "2026-08-20T11:24:29.740019+00:00",
+  "elapsed": 0.193896,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e1082d0e5b806c-TXL",
+    "Connection": "close",
+    "Content-Length": "510",
+    "Date": "Thu, 20 Aug 2026 11:24:29 GMT",
+    "ETag": "\"520060b180011d1c5a60da74d1b61f54\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:48:05 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Zp5bAbX96lOz3hRVU1XeNrv53n6Yv3I1tY1VgUFW7OY%2FzYvZQyuZKyZS79aRWp0EYaY0YY60vyaM7%2BbDHxaF4D95DVhApUco3XtH7souGSGDIvabHaXdXCLCa5uREh3c3mN3bzfD9SVLrZwiLFb0aUP0pN0gtZ%2Fkm6hv\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-07-03_British_Grand_Prix/2022-07-01_Practice_1/SessionInfo.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-07-03_British_Grand_Prix/2022-07-01_Practice_1/SessionInfo.jsonStream"
+}

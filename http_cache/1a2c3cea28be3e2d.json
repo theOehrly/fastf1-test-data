@@ -1,0 +1,41 @@
+{
+  "_content": "77u/MDA6MDA6MDUuOTI4eyJNZXNzYWdlcyI6W3siVXRjIjoiMjAyNC0wMy0wN1QxNjo0NTowNiIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiUklTSyBPRiBSQUlOIEZPUiBGMSBTRUNPTkQgUFJBQ1RJQ0UgU0VTU0lPTiBJUyAwJSJ9XX0NCjAwOjEwOjQwLjgzNnsiTWVzc2FnZXMiOnsiMSI6eyJVdGMiOiIyMDI0LTAzLTA3VDE2OjU1OjQxIiwiQ2F0ZWdvcnkiOiJPdGhlciIsIk1lc3NhZ2UiOiJERUxBWUVEIFNUQVJUIn19fQ0KMDA6MTk6NTguNjg5eyJNZXNzYWdlcyI6eyIyIjp7IlV0YyI6IjIwMjQtMDMtMDdUMTc6MDQ6NTkiLCJDYXRlZ29yeSI6Ik90aGVyIiwiTWVzc2FnZSI6IkZSRUUgUFJBQ1RJQ0UgMiBXSUxMIFNUQVJUIEFUIDIwOjEwIn19fQ0KMDA6MjQ6NTkuNzYyeyJNZXNzYWdlcyI6eyIzIjp7IlV0YyI6IjIwMjQtMDMtMDdUMTc6MTA6MDAiLCJDYXRlZ29yeSI6IkZsYWciLCJGbGFnIjoiR1JFRU4iLCJTY29wZSI6IlRyYWNrIiwiTWVzc2FnZSI6IkdSRUVOIExJR0hUIC0gUElUIEVYSVQgT1BFTiJ9fX0NCjAwOjM3OjQ0LjY4OHsiTWVzc2FnZXMiOnsiNCI6eyJVdGMiOiIyMDI0LTAzLTA3VDE3OjIyOjQ1IiwiQ2F0ZWdvcnkiOiJPdGhlciIsIk1lc3NhZ2UiOiJUVVJOIDEwIElOQ0lERU5UIElOVk9MVklORyBDQVJTIDQ0IChIQU0pIEFORCAyIChTQVIpIE5PVEVEIC0gSU1QRURJTkcifX19DQowMDo0Mjo0Mi44NzB7Ik1lc3NhZ2VzIjp7IjUiOnsiVXRjIjoiMjAyNC0wMy0wN1QxNzoyNzo0MyIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiRklBIFNURVdBUkRTOiBUVVJOIDEwIElOQ0lERU5UIElOVk9MVklORyBDQVJTIDQ0IChIQU0pIEFORCAyIChTQVIpIFdJTEwgQkUgSU5WRVNUSUdBVEVEIEFGVEVSIFRIRSBTRVNTSU9OIC0gSU1QRURJTkcifX19DQowMToxODoyNi4zOTB7Ik1lc3NhZ2VzIjp7IjYiOnsiVXRjIjoiMjAyNC0wMy0wN1QxODowMzoyNyIsIkNhdGVnb3J5IjoiRmxhZyIsIkZsYWciOiJCTEFDSyBBTkQgV0hJVEUiLCJTY29wZSI6IkRyaXZlciIsIlJhY2luZ051bWJlciI6IjE4IiwiTWVzc2FnZSI6IkJMQUNLIEFORCBXSElURSBGTEFHIEZPUiBDQVIgMTggKFNUUikgLSBGQUlMSU5HIFRPIEZPTExPVyBSQUNFIERJUkVDVE9SUyBJTlNUUlVDVElPTlMg4oCTIFRSQUNLIExJTUlUUyJ9fX0NCjAxOjI0OjU5Ljc2OHsiTWVzc2FnZXMiOnsiNyI6eyJVdGMiOiIyMDI0LTAzLTA3VDE4OjEwOjAwIiwiQ2F0ZWdvcnkiOiJGbGFnIiwiRmxhZyI6IkNIRVFVRVJFRCIsIlNjb3BlIjoiVHJhY2siLCJNZXNzYWdlIjoiQ0hFUVVFUkVEIEZMQUcifX19DQowMToyNTowNy40NjV7Ik1lc3NhZ2VzIjp7IjgiOnsiVXRjIjoiMjAyNC0wMy0wN1QxODoxMDowOCIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiRklSU1QgQ0FSIFRPIFRBS0UgVEhFIEZMQUcgLSBDQVIgNjMgKFJVUykifX19DQowMTozNzo1OC4xMTh7Ik1lc3NhZ2VzIjp7IjkiOnsiVXRjIjoiMjAyNC0wMy0wN1QxODoyMjo1OCIsIkNhdGVnb3J5IjoiT3RoZXIiLCJNZXNzYWdlIjoiREVMQVlFRCBTVEFSVCJ9fX0NCg==",
+  "created_at": "2026-08-20T11:23:11.801856+00:00",
+  "elapsed": 0.203908,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Cache-Control": "max-age=3600",
+    "Connection": "close",
+    "Content-Length": "1543",
+    "Content-Type": "application/octet-stream",
+    "Date": "Thu, 20 Aug 2026 11:23:12 GMT",
+    "ETag": "\"842ee956eaa686ac45586b6ee71c83c2\"",
+    "Last-Modified": "Tue, 18 Jun 2024 12:46:41 GMT",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Server": "AmazonS3",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "Origin",
+    "Via": "1.1 b2825f5e779aaa7a75e20fcfeee23920.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Id": "eLF65tysVxnVdR8Fp2bC7fovKi-SZaPnRZPhFllyuZI6DVWrISsKJA==",
+    "X-Amz-Cf-Pop": "MUC50-P4",
+    "X-Cache": "Miss from cloudfront",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1",
+    "x-amz-server-side-encryption": "AES256"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming.formula1.com/static/2024/2024-03-09_Saudi_Arabian_Grand_Prix/2024-03-07_Practice_2/RaceControlMessages.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming.formula1.com/static/2024/2024-03-09_Saudi_Arabian_Grand_Prix/2024-03-07_Practice_2/RaceControlMessages.jsonStream"
+}

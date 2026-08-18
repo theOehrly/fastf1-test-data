@@ -1,0 +1,33 @@
+{
+  "_content": "77u/MDA6MDA6MDAuMDAweyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDowNjoyNy42Mzl7IlN0YXR1cyI6IjEiLCJNZXNzYWdlIjoiQWxsQ2xlYXIifQ0KMDA6MjA6NTYuOTI1eyJTdGF0dXMiOiIyIiwiTWVzc2FnZSI6IlllbGxvdyJ9DQowMDoyMTowMi43MzF7IlN0YXR1cyI6IjUiLCJNZXNzYWdlIjoiUmVkIn0NCjAwOjI2OjQ3LjQzNXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQowMDo1NzoyNy4wODB7IlN0YXR1cyI6IjUiLCJNZXNzYWdlIjoiUmVkIn0NCjAxOjQ5OjAyLjQ3NXsiU3RhdHVzIjoiMSIsIk1lc3NhZ2UiOiJBbGxDbGVhciJ9DQo=",
+  "created_at": "2026-08-20T11:23:58.013116+00:00",
+  "elapsed": 0.220725,
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "CF-RAY": "a2e107669dfd8ebe-FRA",
+    "Connection": "close",
+    "Content-Length": "332",
+    "Date": "Thu, 20 Aug 2026 11:23:57 GMT",
+    "ETag": "\"ea42058a97345cdd0550e9123aab3142\"",
+    "Last-Modified": "Sat, 04 Jul 2026 17:49:14 GMT",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7dfeaE6sCvyat9ccdGrm58a79H5kuXcJYuLX3otxFMIVh5z%2Bh2p%2FRo085lzQ28Bqm35rC%2BrRE8fZiCjNN5qscnRFNxXIDk1MRFeK4jjkcSl71k5hCwEwNw0ckfgr6r%2B5tWDwEloueuNt7lRHU%2BNE8UMrjPsi5yZmmpEx\"}]}",
+    "Server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "cf-cache-status": "DYNAMIC"
+  },
+  "reason": "OK",
+  "request": {
+    "headers": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, identity",
+      "Connection": "close",
+      "TE": "identity",
+      "User-Agent": "BestHTTP"
+    },
+    "method": "GET",
+    "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/TrackStatus.jsonStream"
+  },
+  "status_code": 200,
+  "url": "https://livetiming-mirror.fastf1.dev/static/2022/2022-03-27_Saudi_Arabian_Grand_Prix/2022-03-26_Qualifying/TrackStatus.jsonStream"
+}
